@@ -1,0 +1,34 @@
+- prd: 224:251.357
+  rc_ajd: 82065.357
+  main: | 
+    ```
+    3268  g clone git@github.com:idaisukee/.emacs.d
+    3269  g clone git@github.com:idaisukee/.emacs.d ne
+    3270  f ne
+    3271  l
+    3272  f ..
+    3273  g clone git@github.com:idaisukee/.new.emacs.d new
+    3274  f new
+    3275  l
+    3277  ..
+    3278  mv .emacs.d current
+    3279  mv new .emacs.d
+    3280  cd -- ~/.emacs.d
+    3281  f el-get/helm
+    3282  g s
+    3283  g ll
+    3284  g b
+    3285  gnugo
+    3286  pow
+    3287  f ~
+    3288  g clone git@github.com:idaisukee/emacs.d 065d319
+    3290  git -v
+    3291  git --version
+    3292  wh git
+    3293  sudo update-alternatives --config emacs
+    3294  emacs --version
+    ```
+  range:
+    - public
+  tag:
+    - computer

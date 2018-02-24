@@ -1,0 +1,13 @@
+- prd: 225:0.086
+  rc_ajd: 82179.086
+  main: | 
+    GNURoot Debian を入れた．
+
+    初めに xmodmap で苦戰した． Caps と Ctrl の入替がうまくできなかつた．しかしこれはどうやら keyboard が原因のやうだ． Caps は一度押すと on になり，次に押すまで on のままになるやう， hardware 的に設定されてゐるやうだ．
+
+    次に Emacs で苦戰した． `emacs-snapshot-common`, `emacs-snapshot-el` といふ package を入れたが，實行 file が見當たらなかつた．さらに， unstable から `emacs25-lucid` を入れても同じだつた．これは，先に標準 repository から `emacs` を `install`, `remove` したのが原因かもしれない．よつて， GNURoot Debian を再度 install してやり直してみる．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

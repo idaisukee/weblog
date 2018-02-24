@@ -1,0 +1,9 @@
+- prd: 224:245.057
+  rc_ajd: 82059.057
+  main: | 
+    `hub` command を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 224:303.669
+  rc_ajd: 82117.669
+  main: | 
+    PHP の `fopen` と `file_get_contents` の違ひを知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

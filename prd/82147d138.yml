@@ -1,0 +1,10 @@
+- prd: 224:333.137
+  rc_ajd: 82147.137
+  main: | 
+    Emacs の bookmark を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

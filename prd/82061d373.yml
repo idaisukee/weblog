@@ -1,0 +1,8 @@
+- prd: 224:247.372
+  rc_ajd: 82061.372
+  main: | 
+    Spacemacs の keybind の定義方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer

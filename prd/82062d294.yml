@@ -1,0 +1,9 @@
+- prd: 224:248.293
+  rc_ajd: 82062.293
+  main: | 
+    法令の名と條項の番號を指定すると條文を出力するやうな web API はあるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

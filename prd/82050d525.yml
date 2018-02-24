@@ -1,0 +1,9 @@
+- prd: 224:236.525
+  rc_ajd: 82050.525
+  main: | 
+    Starbucks は register に並ばなければならない．これが壓なところだ．
+  range:
+    - public
+  tag:
+    - 生活
+    - 隨想

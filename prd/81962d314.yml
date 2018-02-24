@@ -1,0 +1,10 @@
+- prd: 224:148.314
+  rc_ajd: 81962.314
+  main: | 
+    `magit` で stage のときに hunk を分割する方法を知つた．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - magit

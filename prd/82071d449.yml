@@ -1,0 +1,9 @@
+- prd: 224:257.449
+  rc_ajd: 82071.449
+  main: | 
+    `styl` といふ擴張子の file は何といふ形式か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 225:81.382
+  rc_ajd: 82260.382
+  main: | 
+    GitHub で複數の account を持つことは運營が認めてゐるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

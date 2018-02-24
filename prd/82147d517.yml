@@ -1,0 +1,10 @@
+- prd: 224:333.517
+  rc_ajd: 82147.517
+  main: | 
+    rbenv を使ふと gem の install 先も Ruby の version ごとに變化するやうになる．今日知つた．
+  range:
+    - public
+  tag:
+    - computer
+    - Ruby
+    - 知識

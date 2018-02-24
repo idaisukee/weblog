@@ -1,0 +1,9 @@
+- prd: 224:282.615
+  rc_ajd: 82096.615
+  main: | 
+    現在 `uplatex` を使つてゐる．しかし， `xelatex` や `lualatex` の方が良いといふ意見もある．時代に遲れてゐないか不安だ．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

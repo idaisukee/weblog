@@ -1,0 +1,10 @@
+- prd: 224:283.263
+  rc_ajd: 82097.263
+  main: | 
+    Emacs で file を read only にする方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

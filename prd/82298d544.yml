@@ -1,0 +1,9 @@
+- prd: 225:119.543
+  rc_ajd: 82298.543
+  main: | 
+    toml file とは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

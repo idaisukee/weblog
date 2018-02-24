@@ -1,0 +1,12 @@
+- prd: 224:238.114
+  rc_ajd: 82052.114
+  main: | 
+    ```
+    itl latex-beamer
+    itl texlive-luatex
+    itl texlive-xetex
+    ```
+  range:
+    - public
+  tag:
+    - computer

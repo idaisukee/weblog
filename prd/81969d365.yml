@@ -1,0 +1,9 @@
+- prd: 224:155.365
+  rc_ajd: 81969.365
+  main: | 
+    `el-get` では package の使用者が依存を記述する． `composer` や `npm` では package の作者がそれをする．なので， `el-get` のやり方を私は奇異に感じる．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

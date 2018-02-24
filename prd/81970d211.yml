@@ -1,0 +1,17 @@
+- prd: 224:156.211
+  rc_ajd: 81970.211
+  main: | 
+    81970 ... 81980 の目標は下の通りとする：
+
+    - 足の爪の掃除を 1 rHz ( 1 回 / d ) 以上の頻度で實行する．
+    - 『パーフェクト Ruby 』を 15 pages 以上讀む．
+    - 『ガイトン生理学』を 15 pages 以上讀む．
+    - ktk.wiki, pub.wiki に新たな file を 10 以上作る．
+    - pub/latin の名詞の reference を完成する．
+    - arbeit の指導案を作つて提出する．
+    - Hexo で blog を作つて Github Pages に deploy する．
+    - phpenv か phpbrew を導入する．
+  range:
+    - public
+  tag:
+    - 目標

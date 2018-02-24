@@ -1,0 +1,16 @@
+- prd: 225:47.461
+  rc_ajd: 82226.461
+  main: | 
+    JavaScript の勉強は，
+
+    - vanilla の文法
+    - framework
+    - build
+    - coffeescript
+
+    に分けてこの順でやると良いだらうと思ふやうになつた．
+  range:
+    - public
+  tag:
+    - computer
+

@@ -1,0 +1,9 @@
+- prd: 224:233.339
+  rc_ajd: 82047.339
+  main: | 
+    GitHub Pages のやうな Git で deploy できる hosting service は他にあるか．
+  range:
+    - public
+  tag:
+    - computre
+    - 疑問

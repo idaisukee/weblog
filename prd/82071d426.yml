@@ -1,0 +1,9 @@
+- prd: 224:257.425
+  rc_ajd: 82071.425
+  main: | 
+    Media Wiki は Heroku で運用できるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

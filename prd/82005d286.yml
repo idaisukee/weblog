@@ -1,0 +1,10 @@
+- prd: 224:191.285
+  rc_ajd: 82005.285
+  main: | 
+    MR とおたふかぜの vaccine を受けた．
+  range:
+    - public
+  tag:
+    - 醫學
+    - 醫療
+    - 生活

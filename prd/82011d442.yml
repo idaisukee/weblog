@@ -1,0 +1,15 @@
+- prd: 224:197.442
+  rc_ajd: 82011.442
+  main: | 
+    PHP の file を X40 の Emacs で開かうとすると 
+
+    > Cannot open load file: subr-x
+
+    と表示される．そして， tab ・ space が表示されない．
+
+    Emacs 25 系にすれば良いだらうか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

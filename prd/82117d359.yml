@@ -1,0 +1,19 @@
+- prd: 224:303.359
+  rc_ajd: 82117.359
+  main: | 
+    `vendor/autoload` を require するときにどのやうにするのが best なのかわからない．いま
+
+    ```
+    if (file_exists('../vendor/autoload.php')) {
+    require '../vendor/autoload.php';
+    } else {
+    require '../../../autoload.php';
+    }
+    ```
+
+    としてゐる．しかしこれは正しくないやうな氣がする．他にかうしてゐる例を見たことがない．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

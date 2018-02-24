@@ -1,0 +1,9 @@
+- prd: 224:320.408
+  rc_ajd: 82134.408
+  main: | 
+    PHP で method の引數を array で渡すときの best practice を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

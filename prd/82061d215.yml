@@ -1,0 +1,9 @@
+- prd: 224:247.214
+  rc_ajd: 82061.214
+  main: | 
+    YaTeX の使用を久しぶりに再開した．前回使つたのは およそ 4kd 前，大學の卒業論文を書いたときだと思ふ． `YaTeX-mode` は default の syntax highlighting が好きでないので，これは使はないことにした．代はりに， `tex-mode` から YaTeX の command を呼ぶことにした．まづ， `YaTeX-end-environment` は呼べることを確認した．他の command についてもさうかはまだわからない．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

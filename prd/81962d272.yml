@@ -1,0 +1,9 @@
+- prd: 224:148.272
+  rc_ajd: 81962.272
+  main: | 
+    MySQL server に外部から接續する方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

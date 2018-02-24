@@ -1,0 +1,9 @@
+- prd: 224:162.504
+  rc_ajd: 81976.504
+  main: | 
+    OS 全体に對し `anything` のやうな interface をつけることはできるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

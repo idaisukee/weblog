@@ -1,0 +1,10 @@
+- prd: 224:311.272
+  rc_ajd: 82125.272
+  main: | 
+    Ruby の CSV class をうまく使ひたい．知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問
+    - Ruby

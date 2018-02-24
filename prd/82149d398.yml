@@ -1,0 +1,9 @@
+- prd: 224:335.398
+  rc_ajd: 82149.398
+  main: | 
+    GitHub の wiki の sidebar, footer を作る tool はあるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

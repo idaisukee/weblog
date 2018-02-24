@@ -1,0 +1,11 @@
+- prd: 224:191.214
+  rc_ajd: 82005.214
+  main: | 
+    Phone の動きが重くて困つてゐた．買ひ換へも檢討してゐた．しかし， launcher を ADW Launcher から ZenUI launcher に變へたら輕くなつた． Camera も，「良いカメラ」よりも標準のものの方が輕いことを知つた．
+
+    Camera は今後，標準のものを主に使ひ，音を出してはいけないときのみ「良いカメラ」を使はうと思ふ．
+  range:
+    - public
+  tag:
+    - computer
+    - phone

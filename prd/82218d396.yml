@@ -1,0 +1,10 @@
+- prd: 225:39.395
+  rc_ajd: 82218.395
+  main: | 
+    GitLab が Ruby 製であることを知つた．
+  range:
+    - public
+  tag:
+    - computer
+    - Ruby
+    - 知識

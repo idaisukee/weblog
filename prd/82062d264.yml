@@ -1,0 +1,9 @@
+- prd: 224:248.264
+  rc_ajd: 82062.264
+  main: | 
+    Android の PDF reader で自炊した書物を讀むに適したものは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

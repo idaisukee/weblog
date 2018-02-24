@@ -1,0 +1,9 @@
+- prd: 224:221.213
+  rc_ajd: 82035.213
+  main: | 
+    pry で `3.times { .ls }` が動作しないのが不滿だ．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

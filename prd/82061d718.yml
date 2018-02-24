@@ -1,0 +1,9 @@
+- prd: 224:247.718
+  rc_ajd: 82061.718
+  main: | 
+    Webpack ( といふより CommonJS か ) で `node_modules` のなかの file を require するやり方はわかつた．しかし，自分が書いた file を require する方法がわからない．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

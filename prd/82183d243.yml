@@ -1,0 +1,9 @@
+- prd: 225:4.242
+  rc_ajd: 82183.242
+  main: | 
+    `apt-utils` を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

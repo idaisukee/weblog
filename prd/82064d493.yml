@@ -1,0 +1,9 @@
+- prd: 224:250.492
+  rc_ajd: 82064.492
+  main: | 
+    `what-domain` といふ Emacs command を知つた．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

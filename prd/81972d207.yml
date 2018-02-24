@@ -1,0 +1,10 @@
+- prd: 224:158.207
+  rc_ajd: 81972.207
+  main: | 
+    `irbsh` に興味がある．
+  range:
+    - public
+  tag:
+    - Ruby
+    - computer
+    - 疑問

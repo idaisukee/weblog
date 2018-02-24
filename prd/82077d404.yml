@@ -1,0 +1,9 @@
+- prd: 224:263.404
+  rc_ajd: 82077.404
+  main: | 
+    IFTTT を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

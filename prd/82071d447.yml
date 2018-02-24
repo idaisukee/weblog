@@ -1,0 +1,9 @@
+- prd: 224:257.447
+  rc_ajd: 82071.447
+  main: | 
+    Hexo で作つた blog に web api を實裝できるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

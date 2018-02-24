@@ -1,0 +1,8 @@
+- prd: 224:145.262
+  rc_ajd: 81959.262
+  main: | 
+    `g4` , `druzzle` を Composer package として公開したい． 
+  range:
+    - public
+  tag:
+    - computer

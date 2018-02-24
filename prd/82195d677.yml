@@ -1,0 +1,9 @@
+- prd: 225:16.677
+  rc_ajd: 82195.677
+  main: | 
+    `test-unit` ではまつた． https://qiita.com/hinamiyagk/items/ba21dc92d53d2034d21e に答があつた．
+  range:
+    - public
+  tag:
+    - computer
+    - Ruby

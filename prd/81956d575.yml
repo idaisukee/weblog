@@ -1,0 +1,9 @@
+- prd: 224:142.574
+  rc_ajd: 81956.574
+  main: | 
+    Google Calendar で日時の表示が Gregorius 曆なのが不滿だ．共和曆で表示するものがほしい．
+  range:
+    - public
+  tag:
+    - computer
+    - 曆

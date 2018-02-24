@@ -1,0 +1,10 @@
+- prd: 224:151.494
+  rc_ajd: 81965.494
+  main: | 
+    PHP 7 への移行を進めねばならない．
+  range:
+    - public
+  tag:
+    - computer
+    - PHP
+    - 希望

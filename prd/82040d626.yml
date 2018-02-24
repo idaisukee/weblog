@@ -1,0 +1,8 @@
+- prd: 224:226.625
+  rc_ajd: 82040.625
+  main: | 
+    私の好きな brand の店が札幌にあるか，あるならばどこにあるかを調べた． Katharine Hamnett は大丸にある． Margaret Howell は Stellar Place にある． agnès b. はないやうだ．
+  range:
+    - public
+  tag:
+    - 生活

@@ -1,0 +1,9 @@
+- prd: 224:319.318
+  rc_ajd: 82133.318
+  main: | 
+    窗つき封筒への印刷を LaTeX で行ふ方法はあるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

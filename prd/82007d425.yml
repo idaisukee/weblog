@@ -1,0 +1,15 @@
+- prd: 224:193.424
+  rc_ajd: 82007.424
+  main: | 
+    TECOM に對する medu4 の違ひは，
+
+    - textbook が PDF で配布される
+    - 個人で申し込む
+    - 申し込みが net で完結する
+
+    以外にあるか．
+  range:
+    - public
+  tag:
+    - 醫學
+    - 疑問

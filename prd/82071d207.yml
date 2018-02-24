@@ -1,0 +1,8 @@
+- prd: 224:257.206
+  rc_ajd: 82071.206
+  main: | 
+    `shell-quote-argument`, `exec-path`, `executable-find` を知つた．
+  range:
+    - public
+  tag:
+    - computer

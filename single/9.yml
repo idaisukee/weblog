@@ -1,0 +1,408 @@
+- time: 2016 0810 1758
+  main: |
+    前囘の歸省の總括を見て，新幹線の 名古屋 - 靜岡 間で學生割引が效くことを思ひ出し，必要な證明書を取つてきた．
+  range:
+    - public
+  tag:
+    - 生活
+- time: 2016 0817 1234
+  main: |
+    今囘の歸省の歸路で品川から日暮里まで京濱東北線に乘り，その遠さに驚いた． 22 分かかつた．新靜岡・新清水間よりも遠い．
+  range:
+    - public
+  tag:
+    - 地理
+- time: 2016 0817 1324
+  main: |
+    今囘の歸省のために，學生割引に必要の證明書を取りに行つた．文系校舎の證明書自動發行機まで行つた．學生割引を使用するたびにこれを繰り返すのは手間が大きい．卒業までに使ふ豫定の學生割引の證明書を全て一度に發行させ，家に置いておければ，手間が減る．しかし，證明書の有效期間は 90 日しかないため，これは不可能である．不便である．
+  range:
+    - public
+  tag:
+    - 生活
+    - 大學
+- time: 2016 0817 1352
+  main: |
+    Emacs で file を保存するとき，
+    
+    - file 末に改行を入れる
+    - file 末に 2 個以上の改行を入れない
+    
+    と決めてゐる．これをいまは手でやつてゐる．自動化したい．
+  range:
+    - public
+  tag:
+    - computer
+    - emacs
+- time: 2016 0818 2017
+  main: | 
+    いまひとつ programming に對しガチれてゐない．家に net を引いてゐないのが原因か．あるいは，家に desktop の machine がないのが原因か．家を整へるか，會社の近くに住むか．
+  range:
+    - public
+  tag:
+    - computer
+    - 生活
+- time: 2016 0819 1726
+  main: |
+    Windows 95 ころ， Fixedsys といふ font があつた．美しいと思つて常用してゐた．たしか，そのころは editor は秀丸を使つてゐたと思ふ．いま見ると，あまり感動はない．だが， Fixedsys Excelsior といふ， UTF-8 對應版の開發がされてゐるやうだ．昔の私と同じく，ひきつけられる人はゐるのだらう．
+  range:
+    - public
+  tag:
+    - computer
+    - font
+- time: 2016 0819 2312
+  main: |
+    Google Drive API を使つて file を upload するのが，やうやくできた． pr 223:270 ころから取り組んでいた記憶がある． Guzzle を知つたらすぐにできた．ありがたい．
+
+    この調子で，生活に必要な service を全て API から操作できるやうにしてゆきたい． Facebook とはてなと github を次の目標としたい．
+  range:
+    - public
+  tag:
+    - computer
+    - API
+- time: 2016 0819 2315
+  main: |
+    `Composer` の `autoload` が大變便利で，感心した．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0819 2316
+  main: |
+    現在， MBP に裸族のお立ち台を接續して使はうとしてゐる．勝手に接續が切れるので困つてゐる． Mac OS を upgrade すると解決するといふ説があるので，明日實施する．
+  range:
+    - public
+  tag:
+    - computer
+    - mac
+- time: 2016 0819 2318
+  main: |
+    X40d に `PHP` を install した．
+
+    ```
+    sudo apt-get install php5 php5-cli
+    ```
+  range:
+    - public
+  tag:
+    - computer
+    - PHP
+- time: 2016 0819 2319
+  main: |
+    るびきち氏が `eshell` から `fish` に乘り換へたさうだ． `fish` は使ひやすいのだらうか．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0823 1007
+  main: |
+    MacBook Pro で「裸族のお立ち台」 (http://www.century.co.jp/products/pc/hdd-copy/cros2eu2cp.html . 以降，「本件機器」と稱する ) を使ふのに苦勞してゐた．意圖しない timing で接續が切れるのであつた．
+
+    - PDF file を閲覽してゐるときに大幅な page 移動をしたとき ( 場面 0 )
+    - 畫面が sleep から復歸したとき ( 場面 1 )
+
+    に接續が切れるのを觀測した．
+
+    當初，
+
+    - MBP と本件機器の間に USB hub を挾む ( 樣式 0 )
+    - consent と本件機器の間に tap を挾む ( 樣式 1 )
+
+    といふ樣式で接續した．
+
+    樣式 0 を
+
+    - MBP と本件機器を直接に接續する
+
+    に改めた．すると，場面 0 では接續が切れなくなつた．しかし，場面 1 では依然接續は切れた．
+
+    次に，樣式 1 を
+    
+    - consent と本件機器を直接に接續する
+
+    に改めた．それでも，場面 0 では接續が切れないものの，場面 1 では依然接續は切れた．
+
+    OS を `El Capitan` に upgrade した．それでも症状は變はらなかつた．
+
+    最後に， `システム環境設定` > `省エネルギー` で `可能な場合はハードディスクをスリープさせる` を off にした．すると，症状が發生しなくなつた．
+
+    ただし，現在，本件機器に HDD ( Hard Disk Drive ) を 1 臺のみ接續してゐる． 2 臺接續したときも正常に使へるかはまだわからない．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0824 1628
+  main: |
+    昨日，「裸族のお立ち台」に 2 臺目の HDD ( Hard Disk Drive ) を接續した． .4 d ほど經過して，未だ接續は切れてゐない．
+
+    いま， MacBook Pro の USB ( Universal Serial Bus ) に本件製品のみを接續してゐる．かつ， USB hub を挾まずに接續してゐる．これから， USB port に他の device を接續しても正常に使へるかと， USB hub を挾んで接續しても正常に使へるかを檢證する．
+  range:
+    - public
+  tag:
+    - computer
+    - device
+- time: 2016 0824 1847
+  main: |
+    1 d を 15 gc min ごと區切ると， 96 分割となる．概ね 100 分割である． 100 分割ならば， 10 進數 3 桁で表現できる．だが gc では時刻を 3, 4 桁で表記する．例へば「 9: 04 」「 10:23 」のやうにである．冗長である． rc の方が無駄がない．
+  range:
+    - public
+  tag:
+    - 暦法
+- time: 2016 0826 1932
+  main: |
+    「裸族のお立ち台」についての報告である．
+
+    1.8 d ほど前に，以下の樣式で接續した：
+
+    - consent と本件機器を直接に接續する．
+    - MacBook Pro と本件機器を直接に接續する．
+    - MacBook Pro の他の USB port に USB hub 及び他の device を接續する．
+
+    現在のところ，接續は保たれてゐる．
+  range:
+    - public
+  tag:
+    - computer
+    - device
+- time: 2016 0826 1952
+  main: |
+    `magit` がうまく動かなくて困つてゐたが，解決できた．
+
+    これまで， init file に
+
+    ```
+    (if (string= emacs-version "24.5.1")
+    (lambda ()
+    (el-get-bundle! magit)
+    (el-get-bundle! elpa:let-alisnt)
+    (el-get-bundle! elpa:seq)
+    ```
+
+    と書いてゐたが，これが誤りだつた． `lambda` は凾數を定義するが，そのなかみは評價しない．評價させるならば `lambda` ではなく `progn` だ．
+  range:
+    - public
+  tag:
+    - computer
+    - emacs
+    - elisp
+- time: 2016 0826 2054
+  main: |
+    Windows 10 での window 切り換への app を探してゐるが，定評のあるものが見つからない．
+  range:
+    - public
+  tag:
+    - computer
+    - windows
+- time: 2016 0826 2144
+  main: | 
+    私はいま比例共和暦を使つてゐる．さらに，普及したいと思つてゐる．だが，實際に常用するとなると，問題もありさうだ．
+
+    そのうちの一つは，「日」に關する問題だ．比例共和暦では，これを時間の單位として用ゐる．例へば， gc で「今日は 12 時間働いた」と言ふ内容を， prc では「今日は .5 日働いた」と言ふ．現在の「日」の使ひ方とは差異がある．現在「 1 日がかりで……」等と言ふとき，この「日」は 24 gc h の意味ではない．せいぜい 16 gc h くらゐの時間だらう．
+
+    また， gc で「週に 3 日 parttime をする」と言ふとき，この「日」も 24 gc h の意味ではない．これは「週に 3 囘」の意味である．
+
+    prc を導入するにあたつて，これらの問題を解決する必要がある．
+  range:
+    - public
+  tag:
+    - 暦
+- time: 2016 0826 2324
+  main: | 
+    JavaScript で何をしたら良いのかわからない．
+  range:
+    - public
+  tag:
+    - computer
+    - JavaScript
+- time: 2016 0826 2326
+  main: | 
+    とりあへず， `JavaScript` で miltime と prc を扱へるやうにしたい．
+  range:
+    - public
+  tag:
+    - computer
+    - JavaScript
+- time: 2016 0902 1910
+  main: | 
+    keybind を自在に變更できる terminal emulator はないか．
+  range:
+    - public
+  tag:
+    - computer
+    - terminal
+- time: 2016 0913 2102
+  main: | 
+    mac で `migemo` を使へてゐない．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0913 2103
+  main: | 
+    `Emacs` の `occur` は便利だ．しかし，ある word について `occur` した後他の word についてまた `occur` すると，舊い方の `occur` buffer がなくなつてしまふ．これをなんとかしたい．
+  range:
+    - public
+  tag:
+    - computer
+    - emacs
+- time: 2016 0920 1743
+  main: | 
+    `gitlab` で `#` は issue の接頭辭として， `!` は merge request の接頭辭として用ゐられてゐる． branch の接頭辭もあると良いと思つた．
+
+    これを考へてゐると， `#` とか `!` といふ記號は美しいと思へてきた．これらの記號を最大限に使ふ software は `rogue` 類である．やりたくなつてきた． `brainfuck` もまた記號をよく使ふ software だ．やりたい．
+
+    `gitlab` の上で交はされた comment は git repository には反映されない．また， chat で交はされたものは `gitlab` にも `git` repository にも載らない．情報が散つて不便である．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0920 1752
+  main: | 
+    `sed` や `grep` にかゆいところに手が屆かない感がある． `ruby` oneliner でやりたくなつてきた．しかし `sed` や `grep` をもつと勉強した方が良い氣もする．
+  range:
+    - public
+  tag:
+    - computer
+    - ruby
+    - shell
+- time: 2016 0926 1453
+  main: | 
+    `elisp` の名前空間はどうにかならないのか．
+  range:
+    - public
+  tag:
+    - computer
+    - elisp
+- time: 2016 0926 1456
+  main: | 
+    
+  range:
+    - public
+  tag:
+- time: 2016 1004 2015
+  main: | 
+    Program を亢奮してすらすら書いて保守できなくなることがある．猫が高いところにすいすい登つて降りられなくなるのに似てゐる．
+  range:
+    - public
+  tag:
+    - computer
+    - 隨想
+- time: 2016 1007 2208
+  main: | 
+    `zsh` の prompt で 256 色を使ふ方法は https://h2ham.net/zsh-prompt-color によると `'\e[38;5;詳細前景色コードm'` と `'\e[m'` で文字を圍むことのやうだ．この `38` は前景色についてのものであり，背景色の場合は `48` に替はる．
+    可讀性が低く，とても記憶できるものではない．凾數を使つてなんとかしたい．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1007 2215
+  main: | 
+    Remote の file に對して local の shell で作業したい． Local と同じ shell 環境を remote に整へるのが手間だ．具體的には remote に `peco` を入れ `zplug` を入れ `prezto` を入れ `zaw` を入れるのが手間だ．
+
+    このための手段として，これまで，
+
+    - `sshfs` で mount
+    - `samba` で mount
+
+    を試みた． `sshfs` は速度が小さい． `samba` は permission の設定がよくわからない． `ssh` によつて local で command を發行して remote に實行させる方法を試してみたい．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1017 1904
+  main: | 
+    個人や組織が個別にやつてゐる web page は layout が崩れて正しく見られないことがままある．これに比べると Wikipedia はさういうことが少ないのでつい見てしまふ．しかし情報があまり正確でないのが短所である．個人や組織が Wikipedia に署名つきの記事を寄稿できる機構があると便利だ．もしかしたら Wikipedia の理念に反するかもしれないが．
+  range:
+    - public
+  tag:
+    - 情報
+- time: 2016 1018 1332
+  main: | 
+    ```
+    cat foo | head
+    ```
+
+    のやうに， pipe 記號の前後には半角 space を入れることにしてゐる．だが semicolon は
+
+    ```
+    cd bar; ls
+    ```
+
+    のやうに，後にのみ半角 space を入れることにしてゐる．不揃ひであり，統一した方が良いやうに思へてきた．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1019 1146
+  main: | 
+    `oh-my-zsh` は「 oh my gosh 」にちなんでゐるのだらうか．だとすると，「オー マイ ゼッシュ」と發音すべきだらうか．
+  range:
+    - public
+  tag:
+    - computer
+    - 言葉
+- time: 2016 1019 1313
+  main: | 
+    `GNU GLOBALS` を使はうと思ふ．しかし多くの言語に對應しようと思ふと `Pygments` parser を導入する必要がある．それには `pip` が必要であり， `pip` を使ふならば `Python` も最新にしないと氣持が惡い．道が長くて心が折れさうだ．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1020 1452
+  main: | 
+    `Sony SmartWatch 2` で共和曆の時刻を表示する app を作らうと決めた． 200 日ほど前のことだ．しかしそれから進んでゐない．まづ `Android` の app を作るところから始めねばならないだらう．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1020 1501
+  main: | 
+    どの言語でもほしい library は，排列を操作するもの，文字列を操作するもの，時刻を操作するものだ．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1021 1344
+  main: | 
+    Shell で `C-a` と `C-S-a` を區別できないのが不滿だ． `loadkeys` を使つてなんとかできないか．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1021 1438
+  main: | 
+    `Prezto` の module をいろいろ使つてみたい．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1021 1919
+  main: | 
+    `Chrome` で全角の comma, period が半角になり，しかも原因がわからないので困つてゐた． 200 日くらゐ惱んだ．今日，「さよなら全角英数」といふ add on を off にしたらその現象がなくなつた． `Chrome` 本體や `Apache` が原因かと思つたこともあつたが，さうではないやうだ．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1021 1939
+  main: | 
+    「さよなら全角英数」を on にしたままでも， [Tex Wiki](https://texwiki.texjp.org/) の comma, period は全角のままだ．不思議だ．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1025 2020
+  main: | 
+    http://asia-investor.net/2015/12/26/%E7%A6%8F%E5%B2%A1%E4%BA%A4%E9%80%9A%E6%88%A6%E4%BA%89%EF%BC%9A%E3%80%8C%E8%B2%9D%E5%A1%9A%E3%80%8D%E3%82%92%E5%88%B6%E3%81%99%E3%82%8B%E8%80%85%E3%80%81%E4%B9%9D%E5%B7%9E%E3%82%92%E5%88%B6%E3%81%99/
+
+    この分析はおもしろい．
+  range:
+    - public
+  tag:
+    - 社會
+- time: 2016 1025 2036
+  main: | 
+    `a * 10 ** n` ( Ruby 記法 ) を「 a dower n 」と讀むことを提案する．現行の「 a times 10 to the n-th power 」ないし「 a かける 10 の n 乘」より短く言ひやすいだらう．言ひやすくなれば 10 の羃を使ひやすくなるだらう．
+  range:
+    - public
+  tag:
+    - 數學
+    - 隨想

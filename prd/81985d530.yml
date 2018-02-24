@@ -1,0 +1,9 @@
+- prd: 224:171.530
+  rc_ajd: 81985.53
+  main: | 
+    Build と compile の違ひは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 言葉

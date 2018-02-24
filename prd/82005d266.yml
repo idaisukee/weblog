@@ -1,0 +1,10 @@
+- prd: 224:191.265
+  rc_ajd: 82005.265
+  main: | 
+    道銀 card の web 明細の service を申し込んだ．
+  range:
+    - public
+  tag:
+    - computer
+    - 金錢
+    - 生活

@@ -1,0 +1,9 @@
+- prd: 224:155.285
+  rc_ajd: 81969.285
+  main: | 
+    `undo-tree` の使ひ方を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

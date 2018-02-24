@@ -1,0 +1,9 @@
+- prd: 224:160.513
+  rc_ajd: 81974.513
+  main: | 
+    Elisp の `let` と `let*` では `let*` の方がわかりやすいものだといふ說をるびきち氏の mail magazine で讀んだ．今後， `let*` をよく使ふやうにしたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

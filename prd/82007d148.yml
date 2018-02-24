@@ -1,0 +1,8 @@
+- prd: 224:193.147
+  rc_ajd: 82007.147
+  main: | 
+    iPad Pro を買はうか，それとも Surface にしようか，迷ふ．
+  range:
+    - public
+  tag:
+    - computer

@@ -1,0 +1,9 @@
+- prd: 224:247.363
+  rc_ajd: 82061.363
+  main: | 
+    anything で computer の directory 一覽を得る方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

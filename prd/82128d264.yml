@@ -1,0 +1,8 @@
+- prd: 224:314.264
+  rc_ajd: 82128.264
+  main: | 
+    都道府縣に code はあるか．
+  range:
+    - public
+  tag:
+    - 疑問

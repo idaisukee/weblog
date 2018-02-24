@@ -1,0 +1,15 @@
+- prd: 224:155.645
+  rc_ajd: 81969.645
+  main: | 
+    `nodebrew` を入れた．
+
+    `phpenv` を使つてみた．どうもうまくいかなかつた．
+
+    `hexo` を使つてみた．
+
+    `emacs-snapshot` を使つてみた．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

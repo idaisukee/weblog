@@ -1,0 +1,13 @@
+- prd: 224:330.499
+  rc_ajd: 82144.499
+  main: | 
+    82140 ... 82150 の目標は以下の通りとする．なほ， rd 82150 = gc 2017-08-24T08:00:00+09:00 である．
+
+    - 殘暑見舞ひを作つて送る．
+    - Otohatiyau.rb を build する．
+    - Kusanaki.php に `druzzle` の `multi.php` 同等の method を作る．
+    - Kusanaki.php を實用に投入する．
+  range:
+    - public
+  tag:
+    - 目標

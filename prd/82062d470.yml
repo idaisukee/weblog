@@ -1,0 +1,10 @@
+- prd: 224:248.470
+  rc_ajd: 82062.47
+  main: | 
+    Org-mode を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

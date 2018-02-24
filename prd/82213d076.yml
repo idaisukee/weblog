@@ -1,0 +1,9 @@
+- prd: 225:34.075
+  rc_ajd: 82213.075
+  main: | 
+    しばらく離れてゐたら Emacs LISP が書けなくなつた． Emacs から離れたくなつてきた．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

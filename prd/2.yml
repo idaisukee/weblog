@@ -1,0 +1,191 @@
+- prd: 224:47.205
+  rc_ajd: 81861.205
+  main: | 
+    雇傭といふ表記が好きである．
+  range:
+    - public
+  tag:
+    - 言葉
+- prd: 224:48.245
+  rc_ajd: 81862.245
+  main: | 
+    『希哲館＊月庭』といふ website ( https://sss.kitetu.com/ ) がおもしろい．いろいろな譯語を考案してゐる．しかし獨自の middle ware で組み立ててゐるためか， link を追ひにくく檢索もしにくいのが玉に瑕である．
+  range:
+    - public
+  tag:
+    - 隨想
+- prd: 224:48.265
+  rc_ajd: 81862.265
+  main: | 
+    Unix 哲學に則つて行指向 plain text を讀んで吐くやうに program を書くやうに心がけてきたが，これは改めるべきかもしれない． `json` を讀んで吐くやうにすべきかもしれない．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:48.344
+  rc_ajd: 81862.344
+  main: | 
+    `jq` で條件分岐ができることがわかつた．なるほどこれは單に filter である留まらず，言語であると言つて良い．
+  range:
+    - public
+  tag:
+    - computer
+    - jq
+- prd: 224:48.350
+  rc_ajd: 81862.35
+  main: | 
+    `undo-tree` を使ひこなせてゐない．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+- prd: 224:49.121
+  rc_ajd: 81863.121
+  main: | 
+    Remote の SQL server に接續する方法が知りたい．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:49.172
+  rc_ajd: 81863.172
+  main: | 
+    `Let's Encrypt` の使ひ方を知る必要がある．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:49.195
+  rc_ajd: 81863.195
+  main: | 
+    對義語を自動生成して tweet する bot を作りたい．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:54.453
+  rc_ajd: 81868.453
+  main: | 
+    「 1 日營業」と聞くと，ある日の日の出から日の入りまでの 0.5 d ほど營業してそれ以降營業しないやうな臨時の店を想像する．しかし「 24 時間營業」と聞くと，絕えて休むことのない店を想像する．この例において，「 1 日」と「 24 時間」は等價ではない．このやうに月日と時間に對し異なる單位を用ゐることを我々の現在の言語は前提としてゐる．私は共和暦を用ゐてこの二者に對して同じ單位を用ゐる生活を目指してゐるが，そのためには言語の改革も必要となる．
+  range:
+    - public
+  tag:
+    - 暦
+    - 隨想
+- prd: 224:56.495
+  rc_ajd: 81870.495
+  main: | 
+    「お化け」も女房言葉なのだらうか．
+  range:
+    - public
+  tag:
+    - 言葉
+- prd: 224:57.097
+  rc_ajd: 81871.097
+  main: | 
+    Ruby の block は單なる高階函數であるが，いかにも制禦構造らしく見えるところが長所だといふ意見がある．それがちかごろ私にもわかつてきた． PHP や JavaScript で引數に無名函數を與へることがあるが，見づらいしわかりづらい．それより Ruby の block の方が良い．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:61.289
+  rc_ajd: 81875.289
+  main: | 
+    `PHP` の標準函數で日付・時刻を扱ふのが辛い． Library がほしい．人氣のあるものが既にあるだらうか．
+  range:
+    - public
+  tag:
+    - computer
+    - PHP
+    - 暦
+- prd: 224:63.197
+  rc_ajd: 81877.197
+  main: | 
+    いま使つてゐる ThinkPad X40 が 32 bit non PAE の CPU を搭載してゐるため `Vagrant` や `Docker` の使用に困難がある． 64 bit か 32 bit PAE の CPU の machine が欲しい．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:64.139
+  rc_ajd: 81878.139
+  main: | 
+    `Mojolocious` が氣になる．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:64.139
+  rc_ajd: 81878.139
+  main: | 
+    Ruby による DSL ( domain-specific language ) の例を見たい．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:64.140
+  rc_ajd: 81878.14
+  main: | 
+    靜岡市の「長谷通り」の停留所があるところは長谷通りではないので，改名した方がわかりやすいと思ふ．まはりに三加番稻荷神社や草深門・草深橋といつた歷史のあるものがあるので，これらを名に採用したらどうか．
+  range:
+    - public
+  tag:
+    - 靜岡
+    - 歷史
+    - 隨想
+- prd: 224:64.348
+  rc_ajd: 81878.348
+  main: | 
+    Elisp で `quote` すべきところとさうでないところがわかりにくい． Macro に頼る言語のためかうなるのだらうか．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:67.142
+  rc_ajd: 81881.142
+  main: | 
+    Spacemacs が氣になつてゐる．しかしまだ試してゐない． Emacs で設定 file を讀み込む dir を指定できれば氣輕に試せる．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:67.262
+  rc_ajd: 81881.262
+  main: | 
+    倉頡輸入法で「順」が LLLC となるのが不可解だ．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:68.181
+  rc_ajd: 81882.181
+  main: | 
+    32 bit non PAE で動作する Vagrant box を見つけた． X40 で使つてみようと思ふ．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:69.231
+  rc_ajd: 81883.231
+  main: | 
+    Composer と Packagist の關係がわからない．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:69.339
+  rc_ajd: 81883.339
+  main: | 
+    Eloquent と Active Record はどちらが優れてゐるか．
+  range:
+    - public
+  tag:
+    - computer
+- prd: 224:70.100
+  rc_ajd: 81884.1
+  main: | 
+    PHP の type hinting について知りたい．
+  range:
+    - public
+  tag:
+    - computer

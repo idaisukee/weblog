@@ -1,0 +1,10 @@
+- prd: 224:275.291
+  rc_ajd: 82089.291
+  main: | 
+    Spacemacs を使つてみた．
+  range:
+    - public
+  tag:
+    - Emacs
+    - computer
+    - 疑問

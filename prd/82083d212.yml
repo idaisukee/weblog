@@ -1,0 +1,10 @@
+- prd: 224:269.211
+  rc_ajd: 82083.211
+  main: | 
+    Emacs Lisp の `defun` で引數の default 值を指定する方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

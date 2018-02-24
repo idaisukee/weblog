@@ -1,0 +1,8 @@
+- prd: 224:144.501
+  rc_ajd: 81958.501
+  main: | 
+    HTML の「 selected 」 attribute を使つた．これは便利だ．
+  range:
+    - public
+  tag:
+    - computer

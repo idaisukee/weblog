@@ -1,0 +1,10 @@
+- prd: 224:158.214
+  rc_ajd: 81972.214
+  main: | 
+    Mockery の導入のしかたを知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - PHP
+    - 疑問

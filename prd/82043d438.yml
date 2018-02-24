@@ -1,0 +1,9 @@
+- prd: 224:229.437
+  rc_ajd: 82043.437
+  main: | 
+    Clojure とは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

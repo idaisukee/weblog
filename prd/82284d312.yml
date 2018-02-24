@@ -1,0 +1,9 @@
+- prd: 225:105.312
+  rc_ajd: 82284.312
+  main: | 
+    `git log` に詳しくなりたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

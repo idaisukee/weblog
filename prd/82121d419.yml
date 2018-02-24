@@ -1,0 +1,9 @@
+- prd: 224:307.418
+  rc_ajd: 82121.418
+  main: | 
+    Blogspot の API は整備されてゐるのか．さうならばそれを知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

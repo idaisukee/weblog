@@ -1,0 +1,9 @@
+- prd: 224:190.252
+  rc_ajd: 82004.252
+  main: | 
+    PDF に tag をつける方法を知りたい． Evernote で實現できるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

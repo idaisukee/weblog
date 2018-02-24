@@ -1,0 +1,9 @@
+- prd: 224:246.457
+  rc_ajd: 82060.457
+  main: | 
+    Beamer でうまく表を作る方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

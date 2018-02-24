@@ -1,0 +1,9 @@
+- prd: 224:313.309
+  rc_ajd: 82127.309
+  main: | 
+    `javaldx` とは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

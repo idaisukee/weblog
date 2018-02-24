@@ -1,0 +1,7 @@
+- prd: 224:272.364
+  rc_ajd: 82086.364
+  main: | 
+    Virtual host を知りたい．
+  range:
+    - public
+  tag:

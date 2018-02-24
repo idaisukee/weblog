@@ -1,0 +1,8 @@
+- prd: 224:163.271
+  rc_ajd: 81977.271
+  main: | 
+    AMD Ryzen の發賣が世界を熱狂させてゐると聞いた．
+  range:
+    - public
+  tag:
+    - computer

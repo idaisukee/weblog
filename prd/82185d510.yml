@@ -1,0 +1,9 @@
+- prd: 225:6.509
+  rc_ajd: 82185.509
+  main: | 
+    Resistance 運動とは何か．
+  range:
+    - public
+  tag:
+    - 醫學
+    - 疑問

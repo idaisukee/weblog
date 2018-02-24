@@ -1,0 +1,10 @@
+- prd: 224:256.199
+  rc_ajd: 82070.199
+  main: | 
+    DynaMed を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 醫學
+    - 疑問

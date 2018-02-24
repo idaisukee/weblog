@@ -1,0 +1,9 @@
+- prd: 225:27.308
+  rc_ajd: 82206.308
+  main: | 
+    `yarn` を知りたい． `npm` と `yarn` の違ひを知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

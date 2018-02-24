@@ -1,0 +1,9 @@
+- prd: 224:305.332
+  rc_ajd: 82119.332
+  main: | 
+    Jupyter Notebook を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

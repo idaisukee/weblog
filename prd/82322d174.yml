@@ -1,0 +1,9 @@
+- prd: 225:143.174
+  rc_ajd: 82322.174
+  main: | 
+    ThinkPad X1 Carbon の storage は自分で交換できるのか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

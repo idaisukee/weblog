@@ -1,0 +1,10 @@
+- prd: 224:253.580
+  rc_ajd: 82067.58
+  main: | 
+    tmux の attach, detach は Emacs の `shell-command` で實現できるか．
+  range:
+    - public
+  tag:
+    - computer
+    - editor
+    - 疑問

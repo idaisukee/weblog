@@ -1,0 +1,9 @@
+- prd: 224:229.175
+  rc_ajd: 82043.175
+  main: | 
+    anyenv を使へるやうになりたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

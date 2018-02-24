@@ -1,0 +1,8 @@
+- prd: 224:163.283
+  rc_ajd: 81977.283
+  main: | 
+    Mac では `clang` が `gcc` と名乘つてゐると聞いた．
+  range:
+    - public
+  tag:
+    - computer

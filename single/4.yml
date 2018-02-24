@@ -1,0 +1,329 @@
+- time: 2016 0605 1704
+  main: | 
+    gc 今週の computer に關する活動を振り返る．
+
+    Emacs では text-object を操作する凾數をいろいろ書いた．初め， evil の凾數を呼んだ方が良いのではないかと思つた．途中では， thing を應用した方が良いのではないかと思つた．だが，どちらも概念が難しいので，獨自實裝の道を採つた． Elisp においては，そのとき必要なものをそのときの知識で書けば良いと思ふ．他の言語はなるべく，勉強してからきれいな code を書きたいが．
+
+    Tab ( と書かれた key ) を Alt として使ふのを始めた．前からやらうやらうと思つてゐたが，先延ばしにしてきてしまつた．
+
+    Emacs の文字の大きさを變へる command を書いた．
+
+    HTML, CSS に關する本を 2 册買つた．
+
+    Helm Mini を常用し始めた．
+
+    自分の website の style を書き始めた．
+
+    map file を整理した．
+
+    editorconfig-core の elisp 版を使ひ始めた． Tramp 先でも editorconfig が效くやうになつた．うれしい．
+
+    Google chrome が全角の約物を勝手に半角にする問題の原因を調べ始めた．現在把握してゐるのは，
+
+    - 奧村晴彦先生の site では全角の comma が表示されてゐる．よつて， chrome でも，條件によつては全角の約物を表示できる．
+    - 自分の page は， server から apache で表示させると全角約物が半角に置換される． local で apache で表示させてもさうなる．が， local で apache を經由せずに表示すると全角約物が表示される．よつて， apache が惡さをしてゐる可能性がある．
+    - apache の deflate module が惡さをしてゐるのかと考へてこの mod を外してみたが，やはり全角約物が半角に置換された．
+    - apache 經由で表示させると，いろいろ js が讀み込まれてゐる．この js が惡さをしてゐる可能性がある．
+
+    tomoya さんの Emacs 本を讀んだ． occur と ediff を盛んに使はうと思つた． sql mode も使はうと思つた． multi term も良ささうだ．
+
+    O'Reilly の『入門 GNU Emacs 』を買つた．
+
+    會社の出勤退勤報告をする script を社内で紹介した．
+  range:
+    - public
+  tag:
+    - computer
+    - 定例報告
+- time: 2016 0605 1838
+  main: | 
+    『はじめまして数学』が復刊されてゐた．中學生に教へるのに使はうか．
+  range:
+    - public
+  tag:
+- time: 2016 0608 1619
+  main: | 
+    醫學科の教員が汚い slide を作る現象を抑止するために， word file を食はせたらきれいな ppt を吐く program を配布するのはどうかと思つた．
+
+    彼らの slide が汚い原因の一つは， 1 枚の slide に繪・文字を詰め込みすぎることである． Program によつて 1 枚あたりの繪・文字の量を適正に配分すれば，だいぶましになるのではないか．
+  range:
+    - public
+  tag:
+    - 學事
+    - 醫學
+- time: 2016 0611 0205
+  main: | 
+    x40 の古い方の battery がをかしい．充電率が 48 % より高くならない．
+
+    上の話は會社で充電したときの話だ．いま家で充電したら前記の値より高くなつた．會社の電源の電壓が低かつたのだらうか．
+  range:
+    - public
+  tag:
+    - computer
+    - x40
+- time: 2016 0613 1007
+  main: | 
+    昨日までの 7 日間の computer における活動を振り返る．
+
+    .docx が xml の pack であることを知つた．
+
+    vc と magit を使つて便利だと感じた．今後使つてゆかうと思ふ．
+
+    rgrep と occur を知つて，よく使ふやうになつた．
+
+    emacs の css mode で indent がうまくゆかないので， web mode で css を編輯するやうにした．
+
+    grid system で page を 1 枚作つた．
+
+    HHKB の mode を HHKB から Lite Ext にした． HHKB mode で Ubuntu on Virtualbox on Windows 10 を使ふと右下の key を拾へなかつたからである．
+
+    php curl lib を使ひ始めた． curl の command を自分でべた書きするより便利だ．
+
+    dired から xdg-open を起動するやうにした． xdg-open でどの app を prefer するかをどこに書くのかはわからない．
+
+    migemo, helm-M-x を使ひ始めた．
+  range:
+    - public
+  tag:
+- time: 2016 0613 1242
+  main: | 
+    Emacs の major mode のうちに， mode 獨自の變數に indent style, size を格納するものがある．これらは editorconfig と干渉して厄介だ． project ごとに indent 設定を換へるのも難しい．よつてこれらの方式は今後廢れてゆくだらう．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0614 1022
+  main: | 
+    Emacs と Ruby に關し日本語の文獻を全て讀みたい．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0614 1223
+  main: | 
+    Linux で memory の量を表示するには， `free -m` を使ふ．
+  range:
+    - public
+  tag:
+    - computer
+    - command
+- time: 2016 0614 1725
+  main: | 
+    zsh の凾數の使ひどころがわからない． shell script では實現できなく，かつ凾數で實現できることは何か．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0615 1118
+  main: | 
+    現行の數式は手書きに最適化されてゐる． computer の plain text では書きにくい．これを改める必要があると思ふ． ruby 記法が良いと思ふ． method chain の表現力が高いし， rpn 的に書くことができる．
+  range:
+    - public
+  tag:
+- time: 2016 0618 2308
+  main: | 
+    Open Source Conference 北海道に行つた．いろいろの session が開かれて選んで聽き放題だつた．展示でもいろいろの新しい試みの話を聞き， sticker 等の goods もたくさんもらつた．樂しかつた．
+
+    閉會式の lightening talk では，榎本優樹氏， Jumpaku 氏の話， GitButton の話がおもしろかつた．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0618 2328
+  main: | 
+    phone の着信・發信履歴を computer から參照できないのが不便である．
+  range:
+    - public
+  tag:
+    - smartphone
+    - computer
+- time: 2016 0626 1429
+  main: | 
+    gc 今週の computer に關する活動を振り返る．
+
+    emacs はあまり手を入れてゐない．
+
+    時間割 bot の運用を始めた．
+
+    twitter の api を curl で叩く program を作らうとした． URI の組み立てあたりで面倒になつてきて放り出した．しかし，作らうとしたのは無駄でなかつた．作らうをしたおかげで tmhOAuhth のやつてゐることが見えてきた．
+
+    tmhOAuth を使つて cli で tweet する program を書いた．
+
+    IIJmio の sim card が屆いた．
+
+    x40c に linux Bean を install しようとした．失敗した．
+
+    共和暦に關する program を新たに書き始めた． ajd から共和暦への變換がうまくいかない．
+  range:
+    - public
+  tag:
+- time: 2016 0626 1657
+  main: | 
+    「平行垂直主義」は有名である．机に pen や紙を置いたり，床に箱や家具を置くときに，何かの基線と平行か垂直を成すやうに置く主義である．状況を清明に保ち，整然と把握し續けるための方法として，理系人の多くに受け入れられてゐることだらう．
+
+    私は，常に思考を清明に保つための心的態度として，平行垂直主義に添加して「十進主義」と「比例主義」を提案したい．
+
+    十進主義とは，十進法に從ふ單位を重用する主義であり，さうでない單位を排除する主義である．これに據れば， yard pond 法の單位や Gregorius 暦の十二・六十進法の時間單位は斷然排すべきといふことになる．
+
+    比例主義とは，現象に尺度を附與する際，なるべく比例尺度を用ゐる主義である．
+
+    比例主義について，例を擧げて説明しよう．現在，學校の學年は，入學した年度の學生・生徒を「 1 年生」，その次の年度のそれらを「 2 年生」としてゐる．この呼び方において，「 1.5 年生」とはどんな學生・生徒を指すだらうか．それは，入學から 0.5 年經つた學生・生徒を指すとするのが自然な擴張だらう．この呼び方においては， x 年生の在學期間を y 年としたとき， x と y は y = x - 1 といふ式で結ばれることになる． x と y は比例しない．
+
+    他方，假に，入學した年度の學生・生徒を「 0 年生」，その次の年度のそれらを「 1 年生」としてみよう．この呼び方において，「 1.5 年生」とはどんな學生・生徒を指すだらうか．それは，入學から 1.5 年經つた學生・生徒を指すとするのが自然な擴張だらう．この呼び方においては， x 年生の在學期間を y 年としたとき， x と y は y = x といふ式で結ばれることになる． y は x に比例する．
+
+    比例主義とは，後者のやうな尺度をなるべく採用しようといふ主義である．具體的に言ふならば，數を 1 ではなく 0 から數へ始めようといふ主義である．
+  range:
+    - public
+  tag:
+    - 理系
+    - 十進主義
+    - 比例主義
+- time: 2016 0628 0937
+  main: | 
+    「月」の使用をやめることにした．理由は二つある．
+
+    # 近似が荒い
+
+    「年」は地球の公轉周期の良い近似，「日」は地球の自轉周期の良い近似である．他方，「月」は月の朔望周期の荒い近似である．荒い近似など，ない方がましである．
+
+    # 十進法に從はない．
+    
+    しかも， Gregorius 暦で 28 - 31 日，共和暦で 30 日であり，十進法に從はない．十進主義により，排すべきである．
+  range:
+    - public
+  tag:
+    - 暦法
+    - 十進主義
+- time: 2016 0702 1626
+  main: | 
+    IIJmio に轉入した．申し込みが net だけで完結した．これは良い．店員と話さずに service を受けられるのは樂だし，時間も節約できる．
+
+    現在のところ，通信の速度，つながりやすさに不滿はない．低速 mode でも十分に速い．
+  range:
+    - public
+  tag:
+- time: 2016 0703 1629
+  main: | 
+    自分の考へたことを文章に書いて世に還元せねばならないと思つてゐる．しかしできてゐない．考へたことのうち文章にしたものの割合は極めて低い．この要因の一つは，必要な data を手元に置いてゐないことだらう．寮規，寮自治會の規約， Latin 語の辭書，解剖學の單語一覽等は手元に置かねばならない．
+  range:
+    - public
+  tag:
+    - 隨想
+- time: 2016 0703 1642
+  main: | 
+    Jobs
+  range:
+    - public
+  tag:
+    - 映畫
+- time: 2016 0703 1647
+  main: | 
+    超高速！ 参勤交代
+  range:
+    - public
+  tag:
+    - 映畫
+- time: 2016 0703 1654
+  main: | 
+    Pacman は game としてはつまらない．しかし，畫面はとても美しい．私は editor や website の配色で迷つたら pacman の色からもらつてくることにしてゐる．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0704 1052
+  main: | 
+    Gregorius 暦では日時の單位が 年・月・日・時・分・秒 の 6 元がある．他方共和暦では 年・月・日 の 3 元まで減る．時・分があるではないか：といふ反論があるだらうが，時は deci 日，分は milli 日として定義されてゐるから，元ではないと言つて良い．私は共和暦をさらに改良して，月も廢止してゐる．よつて私の暦は年・日の 2 元で成り立つてゐる．大變單純である． Gregorius 暦の 6 元の體系など，頭の良い人にしか使へないものである．あまりにも慣習として定着してゐるから，この複雜さが省みられてゐない．
+  range:
+    - public
+  tag:
+    - 暦
+- time: 2016 0705 1100
+  main: | 
+    この 15 日間ほど，臨時の出費が多い．列擧すれば次の通りである：
+
+    - 電話機 20 k 圓
+    - 共用試驗對策講座・摸擬試驗 25 k 圓
+    - 聽診器 20 k 圓
+    - 白衣・靴 30 k 圓
+    - hard disk drive と接續機器 18 k 圓
+  range:
+    - public
+  tag:
+- time: 2016 0705 1729
+  main: | 
+    Ubuntu や linuxBean で `sudo apt-get install rbenv` した後も `rbenv install --list` ができなくて混亂してゐた．しかし，昨日，この原因がわかつた．
+
+    まづ， `rbenv install` するには， plugin の `ruby-build` も install せねばならない．これは `sudo apt-get install ruby-build` で install する．次に， `rbenv init -` で script を出力して，この script を `rbenv` より前に實行せねばならない．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0705 1737
+  main: | 
+    舊字舊かなで書いてゐると，つい，文語的の表現を使ひさうになる．
+
+    - 「醫學なる概念」のやうな「なる」
+    - 「痛風のごとき代謝性疾患」のやうな「ごとき」
+    - 「確立されたる方法」のやうな「たる」
+
+    といつた言ひ方を使ひさうになる．かつて私はこれらを使はない主義であつた．それは，口語と文語は混ぜて使つてはならないと信じてゐたからである．
+
+    しかし，いまは，口語と文語は確たる境界を持たず， spectrum 的であると考へてゐる．なので，無理をせず上記のごとき文語的表現を使へば良いと考へてゐる．
+  range:
+    - public
+  tag:
+    - 日本語
+- time: 2016 0706 0847
+  main: | 
+    自轉車を漕ぐときに減速しなくて良いところで減速する人が多い．
+  range:
+    - public
+  tag:
+    - 自轉車
+- time: 2016 0706 0943
+  main: | 
+    Emacs で code を書いてゐるときに， cursor 位置の method 名を取得したい． cursor 位置の method の test method に移動したい．
+  range:
+    - public
+  tag:
+    - emacs
+- time: 2016 0706 0944
+  main: | 
+    Emacs を使ひこなせてゐない．焦る．まづは日本語で出てゐる本を全て讀む．
+  range:
+    - public
+  tag:
+    - emacs
+- time: 2016 0706 0954
+  main: | 
+    ThinkPad X40 のイケてゐない點を列擧したい．
+
+    - SIM ( subscriber identity module ) が差さらない．
+    - display 接續が DVI ( digital visual interface ) のみである． HDMI ( high defnition multimedia interface ) や D cable を利用できない．
+    - USB ( universal serial bus ) port が壞れやすい．
+    - display で細かい字が滲む．
+    - USB から給電できない．
+  range:
+    - public
+  tag:
+- time: 2016 0706 2036
+  main: | 
+    暦に關し，以下を提言する：
+
+    # 元を減らせ．
+
+    現行の暦は，年・月・日・週・時・分・秒の 7 元を用ゐてゐる．これを減らすべきである．
+
+    # 月を廢止せよ．
+
+    月は月の朔望周期の荒い近似である．月の朔望周期上の位相がどうであらうと，生活への影響はほとんどない．これを參照する必要などないのだ．さらに，荒い近似などない方がましだ．
+
+    # 時間を十進化せよ．
+
+    # 年・日を 0 から數へ始めよ．
+
+    # 春分を年の初めとせよ．
+  range:
+    - public
+  tag:
+    - 暦

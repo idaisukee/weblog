@@ -1,0 +1,20 @@
+- prd: 224:197.491
+  rc_ajd: 82011.491
+  main: | 
+    82000 ... 82010 の目標を達成できたかを振り返る．
+
+    - 足の爪の掃除を 0.5 rHz 以上の頻度で實行する． => false
+    - 『パーフェクト Ruby 』を 20 pages 以上讀む． => false
+    - 『ガイトン生理学』を 20 pages 以上讀む． => false
+    - 麻酔の STEP を通讀する． => false. 「力の 300 題」にした．しかしこれも 10 pages ほどしか讀んでゐない．
+    - ktk.wiki, pub.wiki に新たな file を 10 以上作る． => false
+    - humed.wiki に新たな file を 5 以上作る． => false
+    - pub/latin の名詞の reference を完成する． => false. 第 1 ・ 2 曲用について調べることはできた．
+    - arbeit の指導案を作つて提出する． => false
+    - phpenv か phpbrew を導入する． => false
+
+  range:
+    - public
+  tag:
+    - 目標
+    - 定例報告

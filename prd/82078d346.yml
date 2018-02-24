@@ -1,0 +1,10 @@
+- prd: 224:264.345
+  rc_ajd: 82078.345
+  main: | 
+    Emacs で現在の major mode を取得する方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問
+    - Emacs

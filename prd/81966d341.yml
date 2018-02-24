@@ -1,0 +1,9 @@
+- prd: 224:152.340
+  rc_ajd: 81966.34
+  main: | 
+    AtomPub の仕樣に沿つた file を PHP で生成する方法はあるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

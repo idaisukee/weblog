@@ -1,0 +1,9 @@
+- prd: 224:171.432
+  rc_ajd: 81985.432
+  main: | 
+    Android の OS level での第 1 言語を英語にしたら， Facebook での人名の表示も， Alphabet 表記，名姓の順になつてしまつた．さらに，日本語の漢字を表示するときの font も，中國語用と思しき見慣れぬものになつてしまつた．これらは獨立して設定できると良いと思ふ．
+  range:
+    - public
+  tag:
+    - computer
+    - 言葉

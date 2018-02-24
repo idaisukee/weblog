@@ -1,0 +1,9 @@
+- prd: 224:316.124
+  rc_ajd: 82130.124
+  main: | 
+    GPS logger の data を扱ふ方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 224:353.259
+  rc_ajd: 82167.259
+  main: | 
+    iPad の手書き memo を知りたい． Cloud に保存できるのか， open な形式で保存できるのか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

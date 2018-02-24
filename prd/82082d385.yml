@@ -1,0 +1,9 @@
+- prd: 224:268.385
+  rc_ajd: 82082.385
+  main: | 
+    `man` において `$PAGER` や `$MANPAGER` よりも `-P` が優先されるのが不滿だ．
+  range:
+    - public
+  tag:
+    - computer
+    - 不滿

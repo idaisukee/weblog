@@ -1,0 +1,17 @@
+- prd: 224:247.631
+  rc_ajd: 82061.631
+  main: |
+    ```
+     3107  itl     libevent     libjpeg     libpng     mcrypt     libtool     openssl     autoconf     libxml2     lemon     re2c
+ 3108  itl mcrypt     libtool     openssl     autoconf     libxml2     lemon     re2c
+ 3110  itl xml2-config
+ 3111  sch xml2-config
+ 3112  itl xml2-dev
+ 3113  itl libxml2-dev
+ 3115  sudo    apt-get install libssl-dev libsslcommon2-dev
+ 3116  phpenv install 5.6.30
+    ```
+  range:
+    - public
+  tag:
+    - computer

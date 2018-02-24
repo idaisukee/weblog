@@ -1,0 +1,9 @@
+- prd: 224:230.350
+  rc_ajd: 82044.35
+  main: | 
+    Emacs Lisp をおぼえて何になるのかといふ不安がある．Atom の方が將來の役に立つのではないかと不安になる．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 224:247.330
+  rc_ajd: 82061.33
+  main: | 
+    Web mode で `<?php` が indent 0 段となり，その下の code が indent 1 段となつてしまふため， coding 規約に沿ふことができないことがある．どうにかしたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

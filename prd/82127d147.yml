@@ -1,0 +1,9 @@
+- prd: 224:313.147
+  rc_ajd: 82127.147
+  main: | 
+    Ameba blog が smartphone から讀みづらい．
+  range:
+    - public
+  tag:
+    - computer
+    - 不滿

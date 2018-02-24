@@ -1,0 +1,10 @@
+- prd: 224:161.148
+  rc_ajd: 81975.148
+  main: | 
+    Heroku で webpack は使へるのか．
+  range:
+    - public
+  tag:
+    - computer
+    - JavaScript
+    - 疑問

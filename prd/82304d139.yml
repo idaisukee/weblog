@@ -1,0 +1,8 @@
+- prd: 225:125.138
+  rc_ajd: 82304.138
+  main: | 
+    手術室の refresh room に食品の自動販賣機がある． Lawson を使ふよりもずつと速く食品を入手できる．これは良い．
+  range:
+    - public
+  tag:
+    - 生活

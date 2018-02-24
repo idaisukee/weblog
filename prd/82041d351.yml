@@ -1,0 +1,9 @@
+- prd: 224:227.351
+  rc_ajd: 82041.351
+  main: | 
+    Emacs の diff-mode が便利で感心した．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

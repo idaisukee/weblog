@@ -1,0 +1,7 @@
+- prd: 225:13.134
+  rc_ajd: 82192.134
+  main: | 
+    `dsyslog`, `rsyslog` を知りたい．
+  range:
+    - public
+  tag:

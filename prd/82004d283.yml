@@ -1,0 +1,9 @@
+- prd: 224:190.282
+  rc_ajd: 82004.282
+  main: | 
+    `[` と `[[` の違ひを知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

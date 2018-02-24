@@ -1,0 +1,9 @@
+- prd: 224:177.610
+  rc_ajd: 81991.61
+  main: | 
+    病院の病床數等數的指標の database はないのか．
+  range:
+    - public
+  tag:
+    - computer
+    - 醫學

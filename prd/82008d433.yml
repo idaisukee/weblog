@@ -1,0 +1,9 @@
+- prd: 224:194.433
+  rc_ajd: 82008.433
+  main: | 
+    英語 ninth で e を省略する理由を知りたい．
+  range:
+    - public
+  tag:
+    - 言葉
+    - 疑問

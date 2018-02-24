@@ -1,0 +1,9 @@
+- prd: 224:362.129
+  rc_ajd: 82176.129
+  main: | 
+    BusyBox とは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

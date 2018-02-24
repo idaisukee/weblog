@@ -1,0 +1,8 @@
+- prd: 224:248.576
+  rc_ajd: 82062.576
+  main: | 
+    Ruby は理想の言語だといふ感じがする．
+  range:
+    - public
+  tag:
+    - computer

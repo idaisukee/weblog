@@ -1,0 +1,9 @@
+- prd: 224:247.387
+  rc_ajd: 82061.387
+  main: | 
+    Emacs の `man` と `woman` の違ひは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

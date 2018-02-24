@@ -1,0 +1,9 @@
+- prd: 224:320.451
+  rc_ajd: 82134.451
+  main: | 
+    Markdown の起源が `markdown.pl` であるといふ說を聞いた．本當だらうか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

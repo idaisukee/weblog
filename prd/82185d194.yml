@@ -1,0 +1,9 @@
+- prd: 225:6.193
+  rc_ajd: 82185.193
+  main: | 
+    `tabularx` の使ひ方を詳しく知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

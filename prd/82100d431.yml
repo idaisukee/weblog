@@ -1,0 +1,10 @@
+- prd: 224:286.430
+  rc_ajd: 82100.43
+  main: | 
+    Emacs で file の property を表示することはできるか．もう誰か實裝してゐるか．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

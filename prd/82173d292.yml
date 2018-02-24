@@ -1,0 +1,10 @@
+- prd: 224:359.292
+  rc_ajd: 82173.292
+  main: | 
+    Emacs で key を入れ替へる方法は https://www.gnu.org/software/emacs/manual/html_node/efaq/Swapping-keys.html にある．
+  range:
+    - public
+  tag:
+    - 知識
+    - Emacs
+    - computer

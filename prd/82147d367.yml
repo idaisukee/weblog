@@ -1,0 +1,9 @@
+- prd: 224:333.367
+  rc_ajd: 82147.367
+  main: | 
+    `gem environment` を知つた．
+  range:
+    - public
+  tag:
+    - computer
+    - 知識

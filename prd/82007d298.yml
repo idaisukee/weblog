@@ -1,0 +1,10 @@
+- prd: 224:193.298
+  rc_ajd: 82007.298
+  main: | 
+    Pebble について知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 時計
+    - 疑問

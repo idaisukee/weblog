@@ -1,0 +1,9 @@
+- prd: 224:250.422
+  rc_ajd: 82064.422
+  main: | 
+    `composer.json` の書き方を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

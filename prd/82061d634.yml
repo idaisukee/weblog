@@ -1,0 +1,8 @@
+- prd: 224:247.633
+  rc_ajd: 82061.633
+  main: | 
+    `phpenv` による PHP の build に苦戰してゐる．
+  range:
+    - public
+  tag:
+    - computer

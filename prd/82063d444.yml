@@ -1,0 +1,9 @@
+- prd: 224:249.444
+  rc_ajd: 82063.444
+  main: | 
+    `rbenv` の version を使ひ分ける機能は保つたまま build をせず binary を download するやうな tool はあるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,12 @@
+- prd: 224:311.227
+  rc_ajd: 82125.227
+  main: | 
+    82120 ... 82130 の目標は以下の通りとする：
+
+    - 海鮮丼食べ放題に行く．
+    - pub.wiki, humed.wiki, ktk.wiki に 3 entry づつ加へる．
+    - ex-keiteki に 1 entry 加へる．
+  range:
+    - public
+  tag:
+    - 目標

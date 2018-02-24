@@ -1,0 +1,9 @@
+- prd: 224:148.285
+  rc_ajd: 81962.285
+  main: | 
+    Terminal の log を保存する方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

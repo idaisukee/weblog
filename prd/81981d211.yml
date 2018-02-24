@@ -1,0 +1,9 @@
+- prd: 224:167.210
+  rc_ajd: 81981.21
+  main: | 
+    Kindle Fire を digital photo frame として使ふことはできるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

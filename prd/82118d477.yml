@@ -1,0 +1,10 @@
+- prd: 224:304.477
+  rc_ajd: 82118.477
+  main: | 
+    Emacs の shell-script-mode を知りたい．特に indent を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問
+    - Emacs

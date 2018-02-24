@@ -1,0 +1,9 @@
+- prd: 224:269.306
+  rc_ajd: 82083.306
+  main: | 
+    ksu の開發が捗つてゐない．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

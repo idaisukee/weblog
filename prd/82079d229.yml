@@ -1,0 +1,10 @@
+- prd: 224:265.228
+  rc_ajd: 82079.228
+  main: | 
+    emacs-mainline を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

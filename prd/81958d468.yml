@@ -1,0 +1,9 @@
+- prd: 224:144.467
+  rc_ajd: 81958.467
+  main: | 
+    およそ 200 d ぶりに LaTeX で report を書いた． LaTeX は好きだ．もつと詳しくなりたい．
+  range:
+    - public
+  tag:
+    - computer
+    - LaTeX

@@ -1,0 +1,10 @@
+- prd: 224:155.188
+  rc_ajd: 81969.188
+  main: | 
+    Emacs の `shell-command` で使ふ shell を指定できるか．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

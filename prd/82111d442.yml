@@ -1,0 +1,11 @@
+- prd: 224:297.441
+  rc_ajd: 82111.441
+  main: | 
+    82110 ... 82120 の目標は以下の通りとする．
+
+    - pub.wiki, humed.wiki, ktk.wiki にそれぞれ 3 entry 加へる．
+    - latin/practice/1.md を完成する．
+  range:
+    - public
+  tag:
+    - 目標

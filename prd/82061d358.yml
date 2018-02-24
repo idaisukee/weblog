@@ -1,0 +1,9 @@
+- prd: 224:247.357
+  rc_ajd: 82061.357
+  main: | 
+    Emacs で `M-S-`の keybind を使へないのが不滿だ．
+  range:
+    - public
+  tag:
+    - computer
+    - 不滿

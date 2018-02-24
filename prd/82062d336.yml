@@ -1,0 +1,9 @@
+- prd: 224:248.336
+  rc_ajd: 82062.336
+  main: | 
+    Polymorphism とは同名の method でも receiver の object の屬する class によつて method の實體が異なること，といふ理解は合つてゐるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

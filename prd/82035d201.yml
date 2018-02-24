@@ -1,0 +1,11 @@
+- prd: 224:221.200
+  rc_ajd: 82035.2
+  main: | 
+    Arcade の flight simulator はあるか．あるならばやつてみたい．
+  range:
+    - public
+  tag:
+    - game
+    - computer
+    - 疑問
+    - 希望

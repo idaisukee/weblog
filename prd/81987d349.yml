@@ -1,0 +1,9 @@
+- prd: 224:173.349
+  rc_ajd: 81987.349
+  main: | 
+    `dabbrev-expand` を Helm で使ひたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

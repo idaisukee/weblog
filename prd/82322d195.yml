@@ -1,0 +1,10 @@
+- prd: 225:143.194
+  rc_ajd: 82322.194
+  main: | 
+    Eemacs Lisp で universal argument を扱ふ關數を定義する方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問
+    - Emacs

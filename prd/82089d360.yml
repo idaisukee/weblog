@@ -1,0 +1,10 @@
+- prd: 224:275.359
+  rc_ajd: 82089.359
+  main: | 
+    Ruby で array を rotate する method はあるか．
+  range:
+    - public
+  tag:
+    - computer
+    - Ruby
+    - 疑問

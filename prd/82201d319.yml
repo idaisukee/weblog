@@ -1,0 +1,8 @@
+- prd: 225:22.319
+  rc_ajd: 82201.319
+  main: | 
+    色つきの寫真を 9 枚含む report を PDF にしたら概ね 60 fa B になつた． Network print には容量が大きすぎるといふ理由で reject された．
+  range:
+    - public
+  tag:
+    - computer

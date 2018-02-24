@@ -1,0 +1,9 @@
+- prd: 224:285.489
+  rc_ajd: 82099.489
+  main: | 
+    R で pie chart を作る方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

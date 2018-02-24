@@ -1,0 +1,9 @@
+- prd: 224:187.427
+  rc_ajd: 82001.427
+  main: | 
+    Google に營業時間を登録する方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

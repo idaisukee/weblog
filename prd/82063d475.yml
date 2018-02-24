@@ -1,0 +1,9 @@
+- prd: 224:249.474
+  rc_ajd: 82063.474
+  main: | 
+    `gem update --system` は Debian 系でもやつて良いのか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

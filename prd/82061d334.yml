@@ -1,0 +1,13 @@
+- prd: 224:247.333
+  rc_ajd: 82061.333
+  main: | 
+    いま X40 の Emacs の major version が 24 である．使ひづらい． `php-mode` がうまく動かない． `magit` が動かない．なので 25 のものにしたい．手順は，
+
+    - いまの Emacs を rename する．
+    - Repository を追加する．
+    - Emacs 25 を install する．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

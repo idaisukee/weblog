@@ -1,0 +1,9 @@
+- prd: 224:305.373
+  rc_ajd: 82119.373
+  main: | 
+    `git-complete` は強い．素晴らしい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

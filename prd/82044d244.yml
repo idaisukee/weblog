@@ -1,0 +1,9 @@
+- prd: 224:230.244
+  rc_ajd: 82044.244
+  main: | 
+    Shell で `do` - `done` を `{}` と書きたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

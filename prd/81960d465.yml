@@ -1,0 +1,10 @@
+- prd: 224:146.464
+  rc_ajd: 81960.464
+  main: | 
+    Jekyll に plugin の機構はあるのか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問
+    - Jekyll

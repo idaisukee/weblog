@@ -1,0 +1,10 @@
+- prd: 224:242.209
+  rc_ajd: 82056.209
+  main: | 
+    三菱東京 UFJ 銀行の site が「重要なお知らせ」を頻回に出すせゐで MoneyForward の利用に支障がある．
+  range:
+    - public
+  tag:
+    - computer
+    - 生活
+    - 不滿

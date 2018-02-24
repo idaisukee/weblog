@@ -1,0 +1,10 @@
+- prd: 224:313.282
+  rc_ajd: 82127.282
+  main: | 
+    Emacs の skeleton を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

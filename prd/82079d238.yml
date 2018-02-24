@@ -1,0 +1,9 @@
+- prd: 224:265.237
+  rc_ajd: 82079.237
+  main: | 
+    UQ mobile の料金を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

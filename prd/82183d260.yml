@@ -1,0 +1,9 @@
+- prd: 225:4.259
+  rc_ajd: 82183.259
+  main: | 
+    `failed to read /proc/cmdline` を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

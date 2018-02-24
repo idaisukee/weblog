@@ -1,0 +1,9 @@
+- prd: 224:160.556
+  rc_ajd: 81974.556
+  main: | 
+    Gulp の tutorial をやつた．
+  range:
+    - public
+  tag:
+    - computer
+    - JavaScript

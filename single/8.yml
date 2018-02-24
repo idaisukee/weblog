@@ -1,0 +1,422 @@
+- time: 2016 0804 1528
+  main: |
+    ThinkPad X40 ( 2371-CJ0 ) は最上位機種に比べ memory が少ないやうだ．また調べる．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0805 1051
+  main: |
+    ここ數日， keyboard を使ふとき，最上段の key についても home position を守るやうにしてゐる．
+
+    - 1: 左手第 5 指
+    - 2: 左手第 4 指
+    - 3: 左手第 3 指
+    - 4, 5: 左手第 2 指
+    - 6, 7: 右手第 2 指
+    - 8: 右手第 3 指
+    - 9: 右手第 4 指
+    - 0: 右手第 5 指
+    - [: 右手第 2 指
+    - ]: 右手第 3 指
+    - \: 右手第 4 指
+    - `: 右手第 5 指
+
+    で打つやうにしてゐる．これまでは，どの key をどの指で扱ふかは，特に決めてゐなかつた．
+  range:
+    - public
+  tag:
+    - computer
+    - keyboard
+- time: 2016 0805 1106
+  main: |
+    X40c ( ThinkPad X40 ( 2371-CJ0 ) ) の memory を確認した． `free -m` によると memory は 1280 MB だつた． Offboard memory には 1 GB の表示があつた．よつて， Onboard memory は 256 MB だと思はれる．
+
+    X40a の onboard memory を取り外すことができた．だがこれを他の X40 に取り附けられるかはわからない．この memory の容量もわからない．だが，もしこれが 512 MB でかつ X40c に取り附けられれば，便利である．
+  range:
+    - public
+  tag:
+    - computer
+    - x40
+- time: 2016 0809 1950
+  main: | 
+    HHKB の 4, 7, [ に 目印として seal を貼つた．最上段の touch typing がしやすくなつた．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0809 1952
+  main: | 
+    耳鼻咽喉科學の report を提出した．
+  range:
+    - public
+  tag:
+- time: 2016 0811 1005
+  main: | 
+    新千歳空港の自動販賣機では現金しか使へない．加へて，保安檢査を通過して以降は自動販賣機でしか飮食物を買へない．不便である． Credit card 等で買ひ物をするには保安檢査より前で行ふ必要がある．
+  range:
+    - public
+  tag:
+    - 生活
+- time: 2016 0820 0107
+  main: | 
+    `php5-curl` も忘れずに入れる必要がある．
+  range:
+    - public
+  tag:
+    - computer
+    - PHP
+- time: 2016 0820 1928
+  main: | 
+    pr 223:314 - 320 の computer に關する活動を振り返りたい．
+
+    Emacs で text object を操作する函數をいろいろ書いた．未完成のものが多い．
+
+    いつたん X40c に移行したが，動作が遲く實用に耐へなかつたので，X40d へ移行した．
+
+    `Emacs` と同じくらゐ， shell も鍛へて使ふべきものだと悟つた．
+
+    `vc`, `magit` をよく使ふやうになつた．
+  range:
+    - public
+  tag:
+    - computer
+    - 定例報告
+- time: 2016 0820 1934
+  main: | 
+    pr 223:321 - 327 の computer に關する活動を振り返りたい．
+
+    `peco`, `zplug`, `prezto`, `anyframe` を使ひ始めた．
+  range:
+    - public
+  tag:
+    - computer
+    - 定例報告
+- time: 2016 0821 2110
+  main: | 
+    pr 223:328 - :334 の computer に關する活動を振り返りたい．
+
+    MacBook Pro の OS を El Capitan に upgrade した．さうすれば USB 接續が切れなくなると期待した．だが，やはり切れる．
+
+    `rdatetime` に久しぶりに手を入れた．もはや全體がどうなつてゐるかは自分でも把握できない．だが，必要な機能を把握して機能を追加することはできた．これが良い設計なのか，惡い設計なのか，わからない．
+
+    `Google Drive` の API を利用して file を upload するのが，やつとできた．次は， `Gmail` と `hatena` と `Facebook` の API の利用にとりかかりたい．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0901 1958
+  main: | 
+    pr 223:335 - :341 の computer に關する活動を振り返りたい．
+
+    大阪時代の HDD からの data 移動を進めた．
+
+    `rdatetime` の開發を進めた． gc と rc, prc の變換の機能を書いた． send と symbol を使つて meta っぽい感じで書いた．
+
+    自分の project で初めて npm を使つた．便利だと思つた． JavaScript で Julius 通日を扱ふ library を npm で入れた． code の量が少なくて驚いた．
+
+    VirtualBox に Ubuntu 16.04 を入れた．
+  range:
+    - public
+  tag:
+    - computer
+    - 定例報告
+- time: 2016 0903 1041
+  main: | 
+    小兒科學の試驗の病名 list が， password つきの xlsx で配布されてゐた．不適切である． open な形式で配布すべきである．本件ならば CSV を password つき zip で配布すべきだつたと思ふ．
+  range:
+    - public
+  tag:
+    - 學事
+- time: 2016 0904 1722
+  main: | 
+    pr 223:342 - :348 の computer に關する活動を振り返りたい．
+
+    さっぽろまちづくりオープンデータ事前勉強会＆アイデアソン＆マッチング ( https://opendata.doorkeeper.jp/events/50733 ) に參加した．駅すぱあと api の存在と使ひ方を知つた． Bus の案内をもう少し便利にしたいと思つてゐたところ，それを實現する方法が見えた．
+
+    仕事は通常どほりこなした．
+
+   `tmux` の log を保存することを考へ始めた．
+  range:
+    - public
+  tag:
+- time: 2016 0904 1726
+  main: | 
+    學校は時代遲れの組織である．學校に行かなければならないといふのが醫師の著しい特徴である．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0904 1858
+  main: | 
+   beamer を使はうと考へた．が，うまくいかなかつた． install もできてゐない．
+  range:
+    - public
+  tag:
+    - computer
+    - latex
+- time: 2016 0917 1742
+  main: | 
+    LLVM は夢のある技術だ．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0917 1743
+  main: | 
+    十分多くの自轉車に GPS sensor を設置して位置を觀測し續ければ，自轉車撤去がいつ・どこで行はれたかを觀測できるようになるだらう．
+  range:
+    - public
+  tag:
+    - computer
+    - 技術
+- time: 2016 0918 2345
+  main: | 
+    pr 223:349 - 355 の computer に關する活動を振り返りたい．
+
+    仕事は，違ふ project に異動した．
+
+    fish を使つてみた． man page を自動で讀んで， tab での補完のときに option とその機能を表示してくれる機能は良いと思つた．それから， keybind において， `M-a` 等を `\ea` 等と書けるのは zsh よりもわかりやすいと思つた．また， zsh の開發開始が gc 1990 年だつたと聞いて，さすがに古いのではないかと思つた．しかし， `cdr` と `anyframe` に當たるものが fish で見つからなかつたので， zsh にとどまつた．
+
+    codeception を初めて使つた．便利だと思つた．
+
+    ajax の勉強を始めた．
+
+    CoffeeScript, AngularJS, JavaScript, JQuery の本を 1 萬圓分ほど購入した．
+  range:
+    - public
+  tag:
+    - computer
+    - 定例報告
+- time: 2016 0918 2354
+  main: | 
+    pr 223:356 - 362 の computer に關する活動を振り返りたい．
+
+    倉頡輸入法の練習は，しなかつた．
+
+    職場の ideathon で優勝した．
+
+    永續化といふ概念とその實裝に觸れた． O/R mapping は antipattern であるといふ意見を讀んだ．いまの私の印象もそれに近い．だがどうすれば良いのかの答は知らない．
+  range:
+    - public
+  tag:
+    - computer
+    - 定例報告
+- time: 2016 0919 0004
+  main: | 
+    `node` の modern な install 方法を知りたい． `apt` で入れるのが良いのだらうか．それとも `npm` で入れられて，かつその方が良いのだらうか． `nodebrew` といふのも氣になる．
+  range:
+    - public
+  tag:
+    - computer
+    - node
+- time: 2016 1002 2005
+  main: | 
+    isbn: 9784781610726
+  range:
+    - public
+  tag:
+    - 本
+- time: 2016 1002 2012
+  main: | 
+    pr 224:4 - 10 の computer に關する活動を振り返りたい．
+
+    `Codeception` の acceptance test を初めて書き始めた．
+
+    さっぽろまちづくりオープンデータアプリコンテストに出すものを作つた． 224:6, 7 は parttime を休んだ． 224:8 は .38 ころ出勤した．
+
+    前段落の app のため，初めて例外といふものを扱つた． `JavaScript` も初めて 3 行以上書いた．
+  range:
+    - public
+  tag:
+    - computer
+    - 定例報告
+- time: 2016 1002 2102
+  main: | 
+    pr 223:363 - 224:3 の computer に關する活動を振り返りたい．
+
+    `zaw` を使ひ始めた．これによつて `tmux` で畫面内からの補完を實現した．
+
+    `dumb-jump` を使ひ始めた．
+  range:
+    - public
+  tag:
+    - computer
+    - 定例報告
+- time: 2016 1003 0918
+  main: | 
+    今日から講義である．臨床講義棟で行なはれるものと思つてゐたが，豫想に反して醫學部圖書館での實施である．電波が飛んでゐないのは痛いが，座席が多いのは良い．
+  range:
+    - public
+  tag:
+    - 學事
+- time: 2016 1005 0852
+  main: | 
+    `Google Chrome`, `composer` 等， `apt` を經由せずに software を install するのにためらひがある．せめて，何を入れたか記録しておかうと思ふ．
+  range:
+    - public
+  tag:
+    - computer
+    - 隨想
+- time: 2016 1005 0855
+  main: | 
+    日本は CT ( computed tomography ) の普及率が世界一ださうだ．この普及率なる指標はどのやうな定義のものだらうか．
+  range:
+    - public
+  tag:
+    - 醫學
+- time: 2016 1007 1102
+  main: | 
+    新小岩は都心から近い割に賃料が安いと聞いた．具體的にどんなものか調べてみたい．
+  range:
+    - public
+  tag:
+    - 雜事
+    - 生活
+    - 隨想
+- time: 2016 1007 1103
+  main: | 
+    Hackathon master なる人物の評を聞いた．
+  range:
+    - public
+  tag:
+    - computer
+    - 隨想
+- time: 2016 1007 1448
+  main: | 
+    現代の program は，變數と函數から成り立つてゐる．かう私は考へてゐるが，もしかしたらものすごい誤りかもしれない．まあ，そのおそれは措いておかう．
+
+    Program を書くとき，變數・函數の定義にはわかりやすさが求められる． Program 自體を讀んで變數・函數の性格がわかるやうに書ければそれが最も良いとされる．それが難しければ定義の記述の周圍に comment を添へることが推奬されてゐる． Editor ，統合開發環境ほか各種の tool で，定義の記述は簡單に參照できるやうになつてゐる．
+
+    この機構が醫學にはない．用語の定義に jump する機構がない．物質や藥品の名や解剖學用語を定義した人の意圖を簡單に知るための機構がない．將來これが實裝されると良いと思ふ．
+
+    現時點では，自分で調べるしかない．原著論文を參照できれば最も正確な知識が得られるだらうが，難しい．醫學辭典を調べるのが良いだらう．醫學辭典のなかでは『医学書院医学大辞典』の記述が最もわかりやすいと感じた．これをいつでも參照できるやうにしたい．紙のものは携行しづらいので，電子版を使ひたい．
+
+    同書の電子版は提供されてゐる．しかし sample はない．不親切である．
+  range:
+    - public
+  tag:
+    - 醫學
+- time: 2016 1008 1527
+  main: | 
+    教養をつけるため本を讀まねばならないと考へてゐる．しかし實際には時間が空くとすぐに smartphone で俗な contents を見てしまふ．
+
+    講義中は，講義に關連しない本を開くことにためらひがある． PC, smartphone は講義に關連した調べもののためと申し開きができるが，講義に關連しない本はさうではない．見つかれば咎められるおそれがある．
+
+    電車・ bus を待つ間や乘つてゐる間本を讀むべきだとは思ふのだが，本を鞄から取り出すのがつい億劫で smartphone を見てしまふ．
+
+    講義中は講義に關連しない本を讀まず， PC で試驗對策をすれば良いだらう．
+
+    電車・ bus の乘車時間・待ち時間を有效に使ふには， smartphone で有益な contents を見るのが良いだらう．有益な contents はおそらく web よりも Kindle に多いだらう． Kindle Unlimited を契約し， Kindle が快適に動くやうな性能の smartphone を買ふべきといふ結論になる．しかし費用と便益を比較して判斷する必要がある．
+  range:
+    - public
+  tag:
+    - 隨想
+- time: 2016 1008 1949
+  main: | 
+    Dvorak 排列において `f` を押すときの指の移動距離が大きい． `',.` の段， `aou` の段， `;qj` の段の key のなかで指の移動距離が最大である． `f` を押すとき，現在私は右手 3 - 5 指を home position に置いたままにしてゐるが，これで良いのか，もつと特別な工夫をすべきか，氣になつてしまつてきた．
+  range:
+    - public
+  tag:
+    - computer
+    - keyboard
+- time: 2016 1009 1430
+  main: | 
+    大學は自分で學ぶところであつて教へてもらふところではない，だとか，大學はまだ答の見つかつてゐない問題を追究するところだ，だとかと，大學は教員の横暴・怠慢を許す標語に滿ちてゐる．早く，大學を出なくても醫師になれる制度を整へるべきである．その方が，現實に患者を治療することのできる醫師が安定して效率よく育成される．
+  range:
+    - public
+  tag:
+    - 醫學
+    - 隨想
+- time: 2016 1011 0908
+  main: | 
+    私は醫學を學ぶために醫學科に來た．教員の話を聞きたくて來たわけではない．これをわきまへてをらぬ教員が多い．
+  range:
+    - public
+  tag:
+    - 學事
+    - 醫學
+    - 隨想
+- time: 2016 1011 0919
+  main: | 
+    `Emacs` で不意に `undo` をしてしまつて困ることがある．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1013 0937
+  main: | 
+    人工心肺に接續すると血液が非自己成分に觸れて cytokine が大量に出ることを聞いた．材料の改良が待たれる．成分献血・人工透析でも同じ現象があるだらうか．
+  range:
+    - public
+  tag:
+    - 醫學
+- time: 2016 1016 1408
+  main: | 
+    Magnet といふ語は magna + ette が語源なのだらうか．
+  range:
+    - public
+  tag:
+    - 言葉
+- time: 2016 1016 1422
+  main: | 
+    腺が國字であることを知つた．
+  range:
+    - public
+  tag:
+    - 言葉
+- time: 2016 1022 0252
+  main: | 
+    isbn: 978-4-7816-0741-2
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1023 0046
+  main: | 
+    『パーフェクト Ruby 』を讀んでゐる．「クラス定義式」「メソッド定義式」といふ用語が出て來る． Ruby で「式」といふ術語は定義されてゐるのだらうか．「式」はこの二つだけで，他は ( 他の何なのか，と問はれると因つてしまふが ) 全て method なのだらうか．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1023 0240
+  main: | 
+    Kandel の繪を見てゐたら樂しい氣持ちになつてきた．その後 Ruby の本を續んで， Ruby を書いてゐたらますます樂しい氣持ちになつてきた．『ガイトン』も續んでみようかといふ氣持ちになつてきた．なぜこんなに樂しいのだらうか．
+  range:
+    - public
+  tag:
+    - computer
+    - 隨想
+- time: 2016 1023 0250
+  main: | 
+    夜はいろいろとはかどる．
+  range:
+    - public
+  tag:
+    - 隨想
+- time: 2016 1023 2131
+  main: | 
+    文系の諸專攻には，原典主義の傳統がある．孫引きを許さず原典を參照しての議論を徹底する主義である．
+
+    しかし， net を使つてゐると，しばしば，原典主義の貫徹に困難を感じる． Net である text が話題がなつたとき，原典に當たらうとしてもそれが既に消えてゐることが多い．今後，いまの世界を理解するための重要な text が net に發表されるやうになつてゆくと，文系の諸學においても原典主義の修正を迫られてゆくだらう．
+
+    と思つたが，これまでの學問においても，原典の消滅はままあることだらう．古代の text ，例へば十二表法や更級日記も原典が消滅してゐる．これらの扱ひに準ずる形で， net 上の文獻の扱ひも策定されてゆくだらう．
+  range:
+    - public
+  tag:
+    - 學問
+    - 隨想
+- time: 2016 1024 2343
+  main: | 
+    家で tethering を on にすると， MacBook Pro `iCloud` の同期でかなりの data 通信量を消費してしまふ．もう `iCloud` には必要な data を置いてゐないので， off にしたい．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 1025 2347
+  main: | 
+    Telescope や television の tele をもつと氣輕に使ふことはできないだらうか． Tele 親戚や tele 記憶 や tele 落日のやうに．
+  range:
+    - public
+  tag:
+    - 言葉

@@ -1,0 +1,10 @@
+- prd: 225:6.267
+  rc_ajd: 82185.267
+  main: | 
+    中山内科学の PDF があることを知つた．詳しく知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 醫學
+    - 疑問

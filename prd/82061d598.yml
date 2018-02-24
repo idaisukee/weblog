@@ -1,0 +1,8 @@
+- prd: 224:247.598
+  rc_ajd: 82061.598
+  main: | 
+    `Sinsituwoka.php` に Mockery を導入しようとした．しかし， PHP 5.6 or higher が必要で，私の system にいまあるのは 5.9 だといふ問題に當たつた．どうしようか．
+  range:
+    - public
+  tag:
+    - computer

@@ -1,0 +1,8 @@
+- prd: 224:145.695
+  rc_ajd: 81959.695
+  main: | 
+    Sublime Text と NeoVim は Python で擴張できるらしい． .02 d ほど前に知つた．
+  range:
+    - public
+  tag:
+    - computer

@@ -1,0 +1,14 @@
+- prd: 225:0.720
+  rc_ajd: 82179.72
+  main: | 
+    https://docs.ruby-lang.org/ja/latest/doc/spec=2fregexp.html
+
+    > POSIX 文字クラスと呼ばれるものがあります。 これらは上の省略記法とは異なり、文字クラスの中でしか用いることが できません。
+
+    初めて知つた．
+  range:
+    - public
+  tag:
+    - computer
+    - 知識
+    - Ruby

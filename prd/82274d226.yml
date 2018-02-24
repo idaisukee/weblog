@@ -1,0 +1,9 @@
+- prd: 225:95.226
+  rc_ajd: 82274.226
+  main: | 
+    Visual Studio Code の fork はあるのか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

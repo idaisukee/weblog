@@ -1,0 +1,9 @@
+- prd: 224:194.256
+  rc_ajd: 82008.256
+  main: | 
+    三角筋に對する自重 training はあるか．
+  range:
+    - public
+  tag:
+    - training
+    - 疑問

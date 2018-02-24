@@ -1,0 +1,9 @@
+- prd: 224:263.428
+  rc_ajd: 82077.428
+  main: | 
+    work16 で `nodebrew` から `anyenv` + `ndenv` に移行したい．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

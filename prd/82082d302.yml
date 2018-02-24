@@ -1,0 +1,9 @@
+- prd: 224:268.301
+  rc_ajd: 82082.301
+  main: | 
+    環境變數 PAGER を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 225:16.150
+  rc_ajd: 82195.15
+  main: | 
+    LaTeX で聯立方程式を書く方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

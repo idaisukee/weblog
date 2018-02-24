@@ -1,0 +1,9 @@
+- prd: 224:264.386
+  rc_ajd: 82078.386
+  main: | 
+    iPod に入れる曲を random に選ぶ方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

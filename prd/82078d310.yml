@@ -1,0 +1,9 @@
+- prd: 224:264.310
+  rc_ajd: 82078.31
+  main: | 
+    jade を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

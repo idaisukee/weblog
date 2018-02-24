@@ -1,0 +1,11 @@
+- prd: 224:359.258
+  rc_ajd: 82173.258
+  main: | 
+    毒藥の一覽がほしい．
+
+    http://kanri.nkdesk.com/iyaku/iyaku2.1.php にあつた．
+  range:
+    - public
+  tag:
+    - 醫學
+    - 疑問

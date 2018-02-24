@@ -1,0 +1,15 @@
+- prd: 225:146.224
+  rc_ajd: 82325.224
+  main: | 
+    新しい PC を買はうと思ふ．
+
+    - ThinkPad X1 Carbon
+    - ThinkPad X220
+    - Huawei Mate X
+    - MacBook 類
+
+    で迷ふ．
+  range:
+    - public
+  tag:
+    - computer

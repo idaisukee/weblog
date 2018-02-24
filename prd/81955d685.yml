@@ -1,0 +1,10 @@
+- prd: 224:141.684
+  rc_ajd: 81955.684
+  main: | 
+    Jekyll を使つてみた． File 名， URL が Gregorius 曆での日時になるのが氣に入らない．變へられるのだらうか．
+  range:
+    - public
+  tag:
+    - computer
+    - Jekyll
+    - 疑問

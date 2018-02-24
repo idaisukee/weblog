@@ -1,0 +1,9 @@
+- prd: 224:282.317
+  rc_ajd: 82096.317
+  main: | 
+    pdf.js を知りたい． Firefox に install されてゐるやうだ．しかし， install した記憶がない．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

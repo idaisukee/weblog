@@ -1,0 +1,9 @@
+- prd: 225:2.252
+  rc_ajd: 82181.252
+  main: | 
+    電子書籍を探す service がほしい． Query に「彼岸過迄」と入れると Kindle からも Kobo からも Google books からも他の service からも「彼岸過迄」を探してきてくれるやうな service がほしい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

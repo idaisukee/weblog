@@ -1,0 +1,10 @@
+- prd: 224:150.537
+  rc_ajd: 81964.537
+  main: | 
+    CoffeeScript がほぼ Ruby で驚いた．
+  range:
+    - public
+  tag:
+    - computer
+    - Ruby
+    - CoffeeScript

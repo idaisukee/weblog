@@ -1,0 +1,12 @@
+- prd: 224:282.623
+  rc_ajd: 82096.623
+  main: | 
+    82090 ... 82100 の目標は以下の通りとする．
+
+    - pub.wiki, ktk.wiki, humed.wiki にそれぞれ 3 以上の entry を作る．
+    - hurusiyau を完成する．
+    - 本を 3 冊以上 scan する．
+  range:
+    - public
+  tag:
+    - 目標

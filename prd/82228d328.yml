@@ -1,0 +1,9 @@
+- prd: 225:49.327
+  rc_ajd: 82228.327
+  main: | 
+    Satis を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

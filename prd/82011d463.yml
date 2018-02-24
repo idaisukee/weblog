@@ -1,0 +1,47 @@
+- prd: 224:197.463
+  rc_ajd: 82011.463
+  main: | 
+    # Programming 關聯 やること
+
+    Hiyositiyau は Otohatiyau に依存するので， Otohatiyau を先に作る．
+
+    ## Sinsituwoka.php
+
+    - test
+
+    ## Hiyositiyau.rb
+
+    - Otohatiyau.rb を load する．
+    - 仕樣を決める．
+    - test
+
+    ## Hiyositiyau.php
+
+    - Carbon を使ふかどうか決める．
+
+    ## Hiyositiyau.js
+
+    - webpack を導入する．
+    - test
+
+    ## Otohatiyau.rb
+
+    - document
+
+    ## Otohatiyau.php
+
+    - 作り始める．
+    - test
+    - - test 用の library を調べる．
+
+    ## Otohatiyau.js
+
+    - 作り始める．
+    - test
+    - - test 用の library を調べる．
+
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

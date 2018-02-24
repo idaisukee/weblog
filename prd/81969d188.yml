@@ -1,0 +1,9 @@
+- prd: 224:155.187
+  rc_ajd: 81969.187
+  main: | 
+    MIME type の一覽を見たい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

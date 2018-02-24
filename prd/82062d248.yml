@@ -1,0 +1,8 @@
+- prd: 224:248.247
+  rc_ajd: 82062.247
+  main: | 
+    `anyenv` で `rbenv` や `phpenv` を install できることを知つた．
+  range:
+    - public
+  tag:
+    - computer

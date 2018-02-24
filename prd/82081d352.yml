@@ -1,0 +1,23 @@
+- prd: 224:267.352
+  rc_ajd: 82081.352
+  main: | 
+    `emacsclient` をやうやく使へるやうになつた．
+
+    ```
+    emacsclient25 /tmp/b --alternate-editor ""
+    ```
+
+    とした．さらに， `.emacs` に
+
+    ```
+    (require 'server)
+    (unless (server-running-p)
+    (server-start))
+    ```
+    
+    と書いた．これらのどれが奏效したのかはわからない．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

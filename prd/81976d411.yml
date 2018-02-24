@@ -1,0 +1,9 @@
+- prd: 224:162.411
+  rc_ajd: 81976.411
+  main: | 
+    1 d ほど前に Elisp の lexical binding と dynamic binding の說明をるびきち氏の本で讀んだが，わからない．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 224:161.464
+  rc_ajd: 81975.464
+  main: | 
+    JavaScript は難しい．
+  range:
+    - public
+  tag:
+    - computer
+    - JavaScript

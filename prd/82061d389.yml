@@ -1,0 +1,9 @@
+- prd: 224:247.389
+  rc_ajd: 82061.389
+  main: | 
+    Emacs で Markdown の folding はできるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

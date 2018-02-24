@@ -1,0 +1,11 @@
+- prd: 224:148.280
+  rc_ajd: 81962.28
+  main: | 
+    - rbenv
+    - phpenv
+    - nodebrew
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

@@ -1,0 +1,9 @@
+- prd: 225:35.680
+  rc_ajd: 82214.68
+  main: | 
+    ELisp がまた厭になつてきた．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

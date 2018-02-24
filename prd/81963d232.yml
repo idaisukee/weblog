@@ -1,0 +1,8 @@
+- prd: 224:149.231
+  rc_ajd: 81963.231
+  main: | 
+    X40 の `php-mode` で whitespace が表示されない．
+  range:
+    - public
+  tag:
+    - computer

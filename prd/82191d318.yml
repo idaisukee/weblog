@@ -1,0 +1,9 @@
+- prd: 225:12.318
+  rc_ajd: 82191.318
+  main: | 
+    JSONP を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 224:172.158
+  rc_ajd: 81986.158
+  main: | 
+    EPUB 形式の product を作る方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

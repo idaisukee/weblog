@@ -1,0 +1,9 @@
+- prd: 224:162.320
+  rc_ajd: 81976.32
+  main: | 
+    PDF に tag をつけたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

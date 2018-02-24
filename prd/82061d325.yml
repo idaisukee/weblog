@@ -1,0 +1,12 @@
+- prd: 224:247.324
+  rc_ajd: 82061.324
+  main: | 
+    やるべきこと
+
+    - Sinsituwoka に mockery を入れる．
+    - PowerPoint の textbox に當たるものを Beamer で實現する．
+    - Hexo で通讀用 page を作る．
+  range:
+    - public
+  tag:
+    - computer

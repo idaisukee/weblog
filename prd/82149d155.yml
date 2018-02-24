@@ -1,0 +1,9 @@
+- prd: 224:335.155
+  rc_ajd: 82149.155
+  main: | 
+    mikutter に CLI ( command line interface ) はあるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

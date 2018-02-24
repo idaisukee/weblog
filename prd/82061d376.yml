@@ -1,0 +1,8 @@
+- prd: 224:247.375
+  rc_ajd: 82061.375
+  main: | 
+    Emacs の face で字自體と underline に別の色を割り當てることはできるか．
+  range:
+    - public
+  tag:
+    - co

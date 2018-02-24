@@ -1,0 +1,9 @@
+- prd: 224:169.330
+  rc_ajd: 81983.33
+  main: | 
+    Bundler を使つて Otohatiyau.rb を Hiyositiyau.rb に組み込みたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

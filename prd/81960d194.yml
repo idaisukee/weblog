@@ -1,0 +1,9 @@
+- prd: 224:146.193
+  rc_ajd: 81960.193
+  main: | 
+    `Todo.txt` を使つてみたい．しかし， Gregorius 曆でない曆にも對應してゐるのか．
+  range:
+    - public
+  tag:
+    - computer
+    - meta memo

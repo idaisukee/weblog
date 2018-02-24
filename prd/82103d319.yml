@@ -1,0 +1,10 @@
+- prd: 224:289.319
+  rc_ajd: 82103.319
+  main: | 
+    `start-process` と `shell-command` の違ひを知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

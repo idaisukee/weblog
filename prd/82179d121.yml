@@ -1,0 +1,8 @@
+- prd: 225:0.121
+  rc_ajd: 82179.121
+  main: | 
+    Nike 公園を知りたい．
+  range:
+    - public
+  tag:
+    - 疑問

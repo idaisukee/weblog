@@ -1,0 +1,9 @@
+- prd: 224:272.369
+  rc_ajd: 82086.369
+  main: | 
+    PubMed に web API はあるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 224:194.173
+  rc_ajd: 82008.173
+  main: | 
+    Laravel Homestead とは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,14 @@
+- prd: 224:156.208
+  rc_ajd: 81970.208
+  main: | 
+    81960 ... 81970 の目標を達成できたかを振り返る：
+    
+    - 足の爪の掃除を 1 rHz ( 1 回 / d ) 以上の頻度で實行する． => false
+    - 『パーフェクト Ruby 』を 10 pages 以上讀む． => true
+    - 『ガイトン生理学』を 10 pages 以上讀む． => true
+    - ktk.wiki, pub.wiki, pub/latin/noun に新たな file を 10 以上作る． => true
+    - arbeit の指導案を作つて提出する． => false
+  range:
+    - public
+  tag:
+    - 定例報告

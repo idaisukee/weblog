@@ -1,0 +1,9 @@
+- prd: 224:247.307
+  rc_ajd: 82061.307
+  main: | 
+    `YaTeX-make-begin-end` も `tex-mode` から呼べることがわかつた．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

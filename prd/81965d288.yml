@@ -1,0 +1,11 @@
+- prd: 224:151.288
+  rc_ajd: 81965.288
+  main: | 
+    http://www.mri-jma.go.jp/Project/mrinpd/coderule.html
+
+    Fortran の coding 規約を發見した．
+  range:
+    - public
+  tag:
+    - computer
+    - Fortran

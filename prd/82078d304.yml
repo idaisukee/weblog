@@ -1,0 +1,9 @@
+- prd: 224:264.303
+  rc_ajd: 82078.303
+  main: | 
+    Git server の作り方を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

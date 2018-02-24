@@ -1,0 +1,9 @@
+- prd: 224:359.269
+  rc_ajd: 82173.269
+  main: | 
+    Termux のやうな software は iOS にもあるか．
+  range:
+    - public
+  tag:
+    - 疑問
+    - computer

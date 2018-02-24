@@ -1,0 +1,10 @@
+- prd: 224:154.100
+  rc_ajd: 81968.1
+  main: | 
+    Emacs の Org mode が優れてゐるといふ評を聞く．しかし Markdown ではない notation を採用してゐるのが嫌で手が延びてゐない．もしかしたら Markdown も使へるのだらうか．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 224:171.437
+  rc_ajd: 81985.437
+  main: | 
+    航空便の價格，古書の價格を常時監視したい．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望

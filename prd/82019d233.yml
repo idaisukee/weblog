@@ -1,0 +1,9 @@
+- prd: 224:205.232
+  rc_ajd: 82019.232
+  main: | 
+    もう紙の本は讀む氣がしない．
+  range:
+    - public
+  tag:
+    - computer
+    - 本

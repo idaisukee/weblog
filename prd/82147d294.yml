@@ -1,0 +1,9 @@
+- prd: 224:333.294
+  rc_ajd: 82147.294
+  main: | 
+    Ubuntu 16.04 に PHP 5 を入れる方法を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,10 @@
+- prd: 224:158.211
+  rc_ajd: 81972.211
+  main: | 
+    rdoc はまだ現役なのだらうか．
+  range:
+    - public
+  tag:
+    - computer
+    - Ruby
+    - 疑問

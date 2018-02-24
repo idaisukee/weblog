@@ -1,0 +1,9 @@
+- prd: 225:27.286
+  rc_ajd: 82206.286
+  main: | 
+    `Bad file descriptor` を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

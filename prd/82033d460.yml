@@ -1,0 +1,10 @@
+- prd: 224:219.460
+  rc_ajd: 82033.46
+  main: | 
+    Ruby で `$.` に讀み込んだ file の行番號が格納されることを知つた．
+  range:
+    - public
+  tag:
+    - computer
+    - Ruby
+    - 知識

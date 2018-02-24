@@ -1,0 +1,9 @@
+- prd: 224:182.173
+  rc_ajd: 81996.173
+  main: | 
+    `anything` 的な app 切り替へはできるか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

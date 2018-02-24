@@ -1,0 +1,9 @@
+- prd: 224:250.477
+  rc_ajd: 82064.477
+  main: | 
+    Gist を blog として使へないか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

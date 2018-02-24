@@ -1,0 +1,7 @@
+- prd: 224:162.266
+  rc_ajd: 81976.266
+  main: | 
+    店や役所が net に公開してゐる
+  range:
+    - public
+  tag:

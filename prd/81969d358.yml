@@ -1,0 +1,9 @@
+- prd: 224:155.358
+  rc_ajd: 81969.358
+  main: | 
+    Emacs のなかから shell command を實行するとき， `rvm` の利用する path に注意せねばならぬやうだ．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

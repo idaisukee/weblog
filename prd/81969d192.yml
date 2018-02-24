@@ -1,0 +1,10 @@
+- prd: 224:155.191
+  rc_ajd: 81969.191
+  main: | 
+    `pry` に keybind を設定できるか．できるとしたら， C-S-(alphabet) も拾へるか．
+  range:
+    - public
+  tag:
+    - computer
+    - ruby
+    - 疑問

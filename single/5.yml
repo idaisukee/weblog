@@ -1,0 +1,492 @@
+- time: 2016 0709 1458
+  main: | 
+    Google Developers では，  project には random な名前が附與される．名前は，形容詞 1 語 + 名詞 1 語から成る．良い工夫である．全く random な文字列より記憶しやすい．
+
+    だが，前段落の形容詞・名詞は英語から選ばれるため，英語の苦手な者には扱ひづらい．
+
+    そこで，日本語話者に記憶しやすい名前の生成方法を考へる．それは，このやうなものだ．日本語で，接頭辭・本體・接尾辭から成る名前を生成する．接頭辭は新・舊・元・本・中等とする．本體は，ありふれた地名から選ぶ．例へば，田中・安西・桑島・與野等である．接尾辭は寺・驛・電停・社・校等とする．
+
+    この方法で生まれる名前は，新安西驛・元田中社・舊桑島校等となる．
+  range:
+    - public
+  tag:
+- time: 2016 0709 1752
+  main: | 
+    「季節經過率」といふ指標を提案する．例へば，現在の季節經過率は 3.18 である．これは，第 3 季の 0.18 が經過したことを示す．第 n 季と日本語季節名の對應は，
+
+    - 0 秋 ( 秋分 - 冬至 )
+    - 1 冬 ( 冬至 - 春分 )
+    - 2 春 ( 春分 - 夏至 )
+    - 3 夏 ( 夏至 - 秋分 )
+
+    のとほりである．
+  range:
+    - public
+  tag:
+    - 暦
+- time: 2016 0710 1247
+  main: | 
+    ![https://imgur.com/BBAHPrJ]
+
+    この blog に畫像を入れるのに imgur を使つてみようと思ふ．
+  range:
+    - public
+  tag:
+    - meta memo
+- time: 2016 0710 1249
+  main: | 
+    一つ前の post で畫像を入れる記法を間違つたやうだ．
+
+    !(https://imgur.com/BBAHPrJ)
+  range:
+    - public
+  tag:
+    - meta memo
+- time: 2016 0710 1310
+  main: | 
+    醫學科學生は激しい競爭の果てに醫學科に入つた．それと同時に，醫學科も他の專攻との激しい競爭の果てに學生を獲得してゐるのである．醫學科教員はこの意識が稀薄である．この意識があれば半端な教育をしたら他の專攻に失禮だと感じるはづであるが，實際にはそんなことは微塵も考へてゐなさうだ．
+  range:
+    - public
+  tag:
+    - 醫學
+- time: 2016 0710 1344
+  main: | 
+    この blog に畫像を載せる方法について惱んでゐる．いま， Imgur と Google Photo を比較檢討してゐる．
+
+    Imgur は，畫像を upload するとすぐに短縮 URL が附與される．これが利點である．しかし，畫像の保存期間が不明である．さらに，能動的に upload する必要がある．これらが不便である．
+
+    これに對し， Google Photo は，自動で同期される．しかし， URL は長いものが附與される．畫像の保存期間はこちらも不明である．さらに， Google は人氣のある service でも終了する習性があるので，不安である．
+  range:
+    - public
+  tag:
+    - meta memo
+- time: 2016 0710 1358
+  main: | 
+    ![](https://lh3.googleusercontent.com/jkbT2Z0Aiot2OiSP03VmhlXLT03MEbQHfK6sUBpV1MTUmhIG1iM_sxYogAt0QP6fxq1xmvG2X1MtOIGtokJa1GtuQLpZK8HvnFAdhvQPbabeeisXg-2H0mVtqZNW5n-q8OxTTSlDlZWsYmzWDIXPMBXl7yJWpJz9H7tVEtxzlxd7-FOpU5ZOn6DfwYv_nRsq7j0zQ6fcf9iy_cHWMLW3MvY_CZ_mSb68b9oe01JnhzmAKLk1NMCc_I9yW1IG8-LgggNTDeN4xZfdxvQmXjzHEhWMYO6BCF13mEd7hUrlI9G6Ub1wPvHweWu62namxNi1_JrUbQ-Pvi9cTvzxDMA6sfxEwQZZFY7z1S23eXN8SmY12BEaJY9zEDaEmQKYcxsCrUQ2Bww5u-BJrGHteJDW0Q5uHGYqjtLkYJ8cV5TDbuf30pL31gKYZ9Kl4B0jP1UwvWTPia3r072LMUksvO7tTV2xwtoAA7E6ihxZLakkWIwUqj2HYtfjr8hS9s2LN4lpWPxRcaHecNjCKMKdtp3TlAReG7m7U3aHJfpqv65_6B66cWiO7dOdIlPOcwmTBN2sV9QcFE46I9jIwVnZZsMh2oehpbug7HQ=w383-h680-no)
+
+    ![](https://lh3.googleusercontent.com/5N2pAdS11SHqx91rlxD_5pWQOZKNXcbdH0H2tgQQLEcPSqfsrCXt2N0k9wKQbbqadCHEDt2H3a4TOothfQCx3juzTYJswUNwdDb2EQikDmyIicskeNatQyw-_87e3PC2SoB8WmqRo_3f9-mFMj3oNJ1hxwmzKv_kE7SAUZuumofYNg9waVY97qA42BU6zhr99H09VfBODqWzkh-c4u9OgtJUS77fzXuT50K86XTGBJRZ-qlUHeHID-NFfkhIsxl0nLaHMS7rGogwOovll5RXqqumoKERpEZXiFCjqGRepgJd7h6PXK5NUI7QSJA31Dt-Z_5bxAepABGbOpUPKlVYksI14XEtNScfh6Lj1Rc-SsWoFUepK_bsJETUvXAWZDTfxO4VR3vvIRmLhDs26_qpTrBkEkjq2IMFZAY6zF5QP8FPRd1KW_bYbw2gFVF_ydg4cDP8pTPnMTVgHDqxxVhTruUHFmIgrRnv-AFzJDa7mZuggfS0wsX_6eeXq5Q57oy_CwaNsC0DiCa1XON5D0spaqvhgRn49nJz8U89kOnLF5NRnIp5SI2CzHpPm5Hc6xZbf7oen64t0EnMc_-LoslMXTzqvymHne4=w383-h680-no)
+
+    携帶電話を新しく買つた．このとき， HINES-WLAN の接續の設定で迷つた．同じことで困つてゐる人がゐるかもしれないので，ここに書いておく．
+
+    畫像の通り，
+
+    - EAP 方式: TLS
+    - フェーズ2 認證: MSCHAPV2
+    - CA 證明書: 指定なし
+    - ID: 自分の ID
+    - 匿名ID: null
+    - パスワード: 自分の password
+    - プロキシ: なし
+    - IP 設定: DHCP
+
+    とすれば良い．
+  range:
+    - public
+  tag:
+    - HINES
+    - computer
+- time: 2016 0710 1414
+  main: | 
+    pr 223:279 - 223:285 の computer に關する活動を振り返る．
+
+    ruby の unit test のやり方をおぼえた． rdatetime の unit test をたくさん書いた．
+
+    Emacs では height 100 を標準とした．だが，うまく動いてゐない．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0710 1426
+  main: | 
+    pr 223:286 - 223:292 の computer に關する活動を振り返る．
+
+    rdatetime を完成した．現在 bug は見つかつてゐない．この開發で，日時を program で扱ふときの良い方法を知つた．得た知見を列擧する：
+
+    - 時差は爆彈なので，時差のある data は速やかに時差のない data に變換すべきである．
+    - ruby の DateTime は 1 日を基本單位としてゐる．對して Time は 1 秒を基本單位としてゐる． DateTime の方が扱ひやすい．なぜなら， 1 日は地球の自轉周期に等しいため，普遍的である．好みや文化に左右されない．他方， 1 秒は地球の自轉周期の ( 60 * 60 * 24 )^(-1) であり，人爲的な單位である．
+
+    blog system を改良した． yml を全て讀んで， time が既存の post の time と一致しない post を insert するやうにした．また， cron で毎分 insert することにした．これにより， yml の dir を local と server で同期するだけで post できるやうになつた．
+
+    blog に畫像を載せ始めた． Google Photo を利用して實現するか， Imgur で實現するか，まだ迷つてゐる．
+
+    emacs で text object を扱ふ凾數は前に書いた．しかし，例外の動作が頼りないので， thing を利用することを考へ始めた． thing の document を讀んだ．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0710 1454
+  main: | 
+    ruby の DateTime::jd の動きは變である．詳しくはまた書く．
+  range:
+    - public
+  tag:
+    - ruby
+    - computer
+- time: 2016 0710 1622
+  main: | 
+    ![](//i.imgur.com/BwpTZO5.jpg)
+    
+    ![](//i.imgur.com/eG5MBIi.jpg)
+
+    東京醫科齒科大學の教養部紀要の意匠が優れてゐる．
+  range:
+    - public
+  tag:
+    - 隨想
+- time: 2016 0710 1645
+  main: | 
+    民主主義において，多數決の結果が無條件に尊重されると考へる者は多い．しかし私はさうではないと思ふ．各員が納得ゆくまで對話した後の多數決が尊重されるべきである．對話のなかで，脅迫するやうな發言，人に嫌な思ひをさせて返答をためらはせるやうな發言があつたときは，合意の價値が下がるのである．これをわきまへてをらぬ者が多い．
+  range:
+    - public
+  tag:
+    - 政治
+- time: 2016 0710 1649
+  main: | 
+    ruby が「何でも object 」の世界， tcl, lisp が「何でも list 」の世界とすれば， shell は「何でも文字列」の世界である．これに氣づいてから shell 擧動の理解が深まつた．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0711 0908
+  main: | 
+    Main の囘線を IIJmio にした． SoftBank から轉出した．これでもう， carrier の囘線を main とすることはないだらう．なので，この機會に carrier とのつきあひを振り返らうと思ふ．
+
+    初めて携帶電話を持つたのは， pr 213 年の夏のころだつた．當時私は大學 3 年生だつた．當時は大學 3 年生の夏に就職活動を始めるのが慣行だつた．私もこの習ひに從つた．手始めに携帶電話を契約した．
+
+    梅田のヨドバシで AU の電話機・囘線を購入した．手續をして 0.05 日ほどで使へるやうになつて驚いた．もつと時間のかかるものと思つてゐたのだ．
+
+    pr 215 年春から pr 216 年春には防府にゐた．この年に新しい端末を手にした．初囘の契約から 2 年後である．現在のやうな 2 年縛りがあつたかどうかは記憶してゐない．この端末は手にしてから數日で落として壞した．
+
+    pr 216 年春からは京都にいた． pr 216 年，金錢が不足した．このため，携帶電話の料金が拂へず，強制解約となつた．
+
+    pr 217 年冬に金錢の不足が輕くなつた．このため，携帶電話を新しく契約した． AU と契約した．このとき買つた端末も，購入から 50 日ほどで壞した．端末を pocket に入れたまま熊野寮の池のほとりを歩いてゐて，池に落ちたのである．防府で買つた端末を店に持つて行つて，機種變更をしてもらつた．手數料として 3 k 圓ほどかかつたと思ふ．このとき， SoftBank では自分の所有する端末間で SIM card を差し替へるのが自由に無料でできると聞いて驚いた．
+
+    pr 219 年冬に， AU との契約が 2 年を經過して， MNP ( Mobile Number Portability ) で轉出する機會となつた．このとき， iPhone を使ひたいと考へて SoftBank に轉入した． AU の smartphone はこのとき IS01, IS02 の 2 機種のみが出てゐた．私はどちらも使ひたいと思はなかつた． Android にも惡評の多い時期だつた． pr 216 年の強制解約の履歴から， SoftBank から端末代金の一括支拂を求められた．なんとか用立てて SoftBank への轉入を果たした．京都北大路の店で行なつた．
+
+    pr 219 年春に iPhone を壞した．北大祭の日だつた．
+
+    pr 221 年冬に， MNP の時期となつた． AU に轉出した． HTC の機種を選んだ．札幌のヨドバシで行なつた．
+
+    pr 221 年夏に端末を壞した．修理より MNP の方が安かつたため， SoftBank に轉出した．
+
+    pr 223 年夏，つひに MVNO に轉出した．
+
+    Carrier は良くないこともしたと思ふ．ガラケー時代，過剩な祕密保護で engineer に不要な仕事をさせたし， RFC ( Request For Comments ) 違反の mail address を發行したし， Docomo の mail account は GMail からの mail を全て彈くのを標準としてゐた．私はこれらを恨んだ．だが，日本にこれだけ携帶電話が普及したのは carrier のおかげだらうし，思ひ返すと，携帶電話の樂しさを私に教へてくれたのは carrier だつた．ありがたう， carrier. そして，さやうなら．
+  range:
+    - public
+  tag:
+    - 携帶電話
+    - smartphone
+- time: 2016 0712 1021
+  main: | 
+    iPad を買はうと思ふ．
+
+    書籍をたくさん自炊した．その他の紙類も多數 scan した．この data を活かすために tablet が必要と思ふ．
+
+    Tablet は以前 Kindle Fire を買つたが，うまく使へなかつた．そこで iPad を買つてみようと思ふ． iOS は tablet 初心者に tablet の使ひ方を教へてくれるだらう．思ひ返せば私が初めて買つた smartphone は iPhone だつた．その後 Android の smartphone を專ら使つてゐるが， smartphone の使ひ方を教へてくれたのは iOS だつた．
+  range:
+    - public
+  tag:
+    - computer
+    - smartphone
+- time: 2016 0712 1906
+  main: | 
+    今日， B 型肝炎豫防接種の 3 囘目を受けた．接種後，看護師から「副作用の發現した場合に備へるため，いまから 30 分間は大學内に殘ること．發現した際は速やかにここに戻ること」と言ひ渡された． 1 ・ 2 囘目は言はれなかつたと思ふ． 3 囘目は副作用が出やすいのだらうか．あるいは， 2 囘目と 3 囘目の間に規則が變更されて，言はなければいけなくなつたのだらうか．それともあるいは， 1 ・ 2 囘目の看護師と今囘の看護師とで意見が違ふのだらうか．
+  range:
+    - public
+  tag:
+    - 醫學
+- time: 2016 0713 0845
+  main: | 
+    昨日は一日中氣怠かつた．このため，休み時間は smartphone を見て過ごしてしまつた．
+
+    今日は元氣である．休み時間は勉強をしたり仕事をしたりして過ごしたい．
+  range:
+    - public
+  tag:
+    - 隨想
+- time: 2016 0713 0849
+  main: | 
+    部屋の整理をした．このおかげで，部屋の『ガイトン生理学』をやうやく讀めるやうになつた．
+
+    同書は私の知る醫學書の中で最もおもしろい本である．部屋にこれがあると思ふと大變頼もしい．
+  range:
+    - public
+  tag:
+    - 隨想
+    - 醫學
+- time: 2016 0713 0851
+  main: | 
+    ddskk で「休む」なる文字列を出さうとしたところ，「安む」なる文字列が出てきた．もしかして語源が同じかもしれない．
+  range:
+    - public
+  tag:
+    - 日本語
+- time: 2016 0713 0902
+  main: | 
+    來期履修すべき科目と講義囘數は以下の通りである：
+
+    - 統合・循環器學 30
+    - 統合・腎尿路學 15
+    - 統合・膠原病・アレルギー學 15
+    - 統合・内分泌・代謝學 15
+    - 統合・臨牀腫瘍學 15
+    - 統合・麻醉救急醫學 30
+  range:
+    - public
+  tag:
+    - 學事
+- time: 2016 0713 1217
+  main: | 
+    `date.rb` に
+
+    ```
+    def zero? () false end
+    def finite? () false end
+    def infinite? () d.nonzero? end
+    def nan? () d.zero? end
+    ```
+
+    なる code がある．日本語に譯せば
+
+    0 か？ 0 ではない．
+
+    有限か？ 有限ではない．
+
+    無限か？ 0 でないならば無限で 0 ならば無限でない．
+
+    數でないか？ 0 ならば數でなく 0 でないならば數だ．
+
+    となり，般若心經的の趣がある．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0713 1542
+  main: | 
+    久野収・鶴見俊輔：現代日本の思想 p.132
+
+    > 注目すべきは、天皇の権威と権力が、「顕教」と「密教」、通俗的と高等的の二様に解釈され、この二様の解釈の微妙な運営的調和の上に、伊藤の作った明治日本の国家がなりたっていたことである。顕教とは、天皇を無限の権威と権力を持つ絶対君主とみる解釈のシステム、密教とは、天皇の権威と権力を憲法その他によって限界づけられた制限君主とみる解釈のシステムである。はっきりいえば、国民全体には、天皇を絶対君主として信奉させ、この国民のエネルギーを国政に動員した上で、国政を運用する秘訣としては、立憲君主説、すなわち天皇国家最高機関説を採用するという仕方である。
+       
+
+    > 天皇は、国民にたいする「たてまえ」では、あくまで絶対君主、支配層間の「申しあわせ」としては、立憲君主、すなわち国政の最高機関であった。小・中学および軍隊では、「たてまえ」としての天皇が徹底的に教えこまれ、大学および高等文官試験にいたって、「申しあわせ」としての天皇がはじめて明らかにされ、「たてまえ」で教育された国民大衆が、「申しあわせ」に熟達した帝国大学卒業生たる官僚に指導されるシステムがあみ出された。
+
+    > 日本の学制が、外国の学制にくらべて、初等教育とのさけめ、国民大衆とインテリとのさけめのはげしさを特色としたのは、この事情から出ているのではないか。外国では、初等教育で基本的内容が教えられ、高等教育で個別的・専門的内容が研究される。日本では、初等教育で結論が断定的に教えられ、高等教育になると、この結論に達する手つづきや異った ( ママ ) 解釈が教えられたから、そうなったのであった。
+
+    > ……
+
+    > 軍部だけは、密教の中で顕教を固守しつづけ、初等教育をあずかる文部省をしたがえ、やがて顕教による密教征伐、すなわち国体明徴運動を開始し、伊藤の作った明治国家のシステムを最後にはメチャメチャにしてしまった。昭和の超国家主義が舞台の正面におどり出る機会をつかむまでには、軍部による密教征伐が開始され、顕教によって教育された国民大衆がマスとして目ざまされ、天皇機関説のインテリくささに反撥し、この征伐に動員される時を待たねばならなかった。
+  range:
+    - public
+  tag:
+- time: 2016 0714 1031
+  main: | 
+    TECOM の CBT 對策講座の基礎醫學のすべての第 1 講を受け終へた．後ろ 3 割はあまり集中せずに聞いてしまつたので，もう一度聞く必要がある．
+  range:
+    - public
+  tag:
+    - 醫學
+- time: 2016 0714 1033
+  main: | 
+    現行の時・分・秒なる單位は廢するべきだと私は考へてゐる．代はりに d 日・ c 日 ・ m 日を使ふべきだと考へてゐる．日は地球の自轉周期に一致するから，文化に依存しない普遍的な單位である．他方，時・分・秒なる，日を 24 進法・ 60 進法で切り分けた單位は恣意的である．人間の慣習と自然の現象が對立してゐるときは，自然の現象に寄るのが理系的態度であらう．
+
+    しかし，新しいことを知つた．圓を定規と compass で以て 12 等分することはたやすい．他方 10 等分することは難しい．すると，日時ごとき循環する數については， 12 進法で測るのが自然であり， 10 進法で測るのはむしろ人爲的と言へるのではないか．
+
+    だが，上の見解にも反論の餘地はある．定規と compass で作圖をするといふのもまた人間の慣習である．これに縛られる必要はない．道具の進歩した今日にあつては 12 進法を捨てるべきだ．かう言ふこともできる．
+  range:
+    - public
+  tag:
+    - 暦
+    - 文明
+    - 十進主義
+- time: 2016 0714 1120
+  main: | 
+    EnchantMOON に興味がある．いまならば Amazon でまだ新品が手に入る．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0714 1659
+  main: | 
+    ものを片づけるとき，ものに對し以下のごとき軸で評價を下す必要がある：
+
+    - 使ふ頻度
+    - 次に使ふだらう時期
+    - しまふ場所があるか
+    - しまつた後，取り出すことが容易か
+
+    これらを同時に評價するのは難しい．なので，私は 1 軸づつ評價することにしてゐる．
+  range:
+    - public
+  tag:
+    - lifehack
+- time: 2016 0714 1746
+  main: | 
+    いま私は ThinkPad X40 を毎日携行してゐる．これをやめて，代はりに Windows tablet と HHKB ( Happy Hacking KeyBoard ) を持たうかといふ考へもある．
+
+    この場合不安なのが， keyboard の盜難である．いま私は，圖書館で憚りに行く際は X40 も持つて行くことにしてゐる．閉ぢて持ち擧げるだけだから簡單だ．だが HHKB だとかうはゆかない．
+  range:
+    - public
+  tag:
+    - x40
+    - computer
+- time: 2016 0715 0855
+  main: | 
+    ![](https://lh3.googleusercontent.com/0Xs5H622EX6deMAc7QV-x6duCn9_QQd-qnvixaVm6S4yelbAkmo5Id9DsAdu29bQXLFlyFkdI2FVEfrh8L8Ha5RHqmVnhhRr79nrAeQCGWOjb-tEl_STvgg4Ntz13bwYRRCAGbFTz7Iz9b_DZCFGR1IdwhI2OOYs4ig-D54NJ5bHVw779mEWoVhT3o35RI7i41ORRxEmpEGh_Pi7noq0KOxeSDA5ytl9uFJlKt2GD2gXyZwOpF8dxH2PDUOGJ8Gq_bZpTYeW51aNBsE4VfF8GbGVN3fQLDNnzajVhjVtftQNMehM0b7J9muB2b2TFOvRYp9KDJjCeucGGOZQD0bYu3tvneJBrw0YMQn31fKVElV3Q32qRgVrxQdHGq9p6J5nZ4hWIZoUQi6a6qjmKfbXme8i1_qFfihntt4T-dHg98q04yRDcSfJw-xRgHCWHalk2Q8Rr3Nw7joBEB90oa3nwg2cqE_5MVxWX3X516pFW1bT-Q46NjsS-YP0X16DNzE_EageAUcOHRJkyZCfRv26JSnoi0mhyYoG70QtCUqmdRDrRROg0lRCB04PzleXlfd3dQMqMtTFRvYfHZ_u2DZpKSifNdM1sSk=w1023-h575-no)
+
+    マップ MEMO ( http://net.jmc.or.jp/goods_others_jmcMapMEMO.html ) を使つて 1 年以上が過ぎた．畫像の 1 枚は，地圖部分に英語や日本語の文字がない．數字のみがある．初めてかういう例に出會つた．
+  range:
+    - public
+  tag:
+    - 地圖
+- time: 2016 0715 0903
+  main: | 
+    JavaScript の學習をしたい．だが，どこから手を着ければ良いのかわからない． node, Knockout, Vue.js, React.js. jQuery と library が多い．多すぎる．
+
+    だが，まづは jQuery からやつてゆけば良い氣がしてきた．
+  range:
+    - public
+  tag:
+    - computer
+    - JavaScript
+- time: 2016 0715 0913
+  main: | 
+    Ruby の version について迷ふ． 1.9.3 を當分常用して良いのだらうか．それとも常に最新のものを使ふべきなのか． Best practice がわからない．さらに，各 version の違ひを探しても明晰には書かれてゐないので，自分で判斷することも難しい．
+  range:
+    - public
+  tag:
+    - computer
+    - Ruby
+- time: 2016 0715 0926
+  main: | 
+    いまこの blog の top page の URL は tanukinonegura.com/blog/ だ．これを blog.tanukinonegura.com に換へたい．
+  range:
+    - public
+  tag:
+    - blog
+    - meta memo
+- time: 2016 0716 0214
+  main: | 
+    `Ruby` の `each_with_object` の使ひ方がわからない．
+
+    ```
+    a=[1,2,3]
+    p a.each_with_object(Array.new) { |b, r|
+      r[b - 1] = b
+    }
+
+    p a.inject(Array.new) { |r, b|
+      r << b
+    }
+    ```
+
+    この 二つが同じ結果を出すことまではわかつた．
+  range:
+    - public
+  tag:
+    - Ruby
+- time: 2016 0716 1808
+  main: | 
+    isbn 978-4-7949-6886-9
+  range:
+    - public
+  tag:
+    - 本
+- time: 2016 0717 1525
+  main: | 
+    現在，大學の圖書館は「試驗期間」といふことで，休日の開館時間が長くなつてゐる．この「試驗期間」は gc 8 月 6 日ころまで續く．他方私の試驗期間は gc 7 月 21 日で終はる豫定である．醫學科は樂な學科である．學習内容はくだらないが，拘束時間は短い．
+  range:
+    - public
+  tag:
+    - 隨想
+    - 學事
+- time: 2016 0718 1447
+  main: | 
+    裸族のお立ち台と MBP ( MacBook Pro ) を使つて RAID1 を構成した．が，接續して 5 m day ほど經つと切斷され，「不正な取り出し」の indicator が出る．困る． 
+  range:
+    - public
+  tag:
+    - computer
+    - raid
+- time: 2016 0721 1956
+  main: | 
+    一部の科目において，出席調査のために祕書が講義中の室に入つて來ることがある．常態化してしまつてをりもはや聲を擧げる者がゐないが，これは本來大變な失禮なことである．學生と教員が眞劍に學問をする場であるはづの講義の最中に，祕書が名乘りもせず挨拶もせずに入つて來るのは，失禮である．
+
+    考へてもみよ． Sports の練習をしてゐる ground に第三者が名乘りもせず挨拶もせずずけずけと入つて來るか．武道の稽古をしてゐる道場はどうか．音樂や舞踊の稽古場はどうか．いづれも，まづあり得ぬ光景である．現在の祕書の行動はこれらと同じやうに失禮である．
+  range:
+    - public
+  tag:
+    - enquete
+- time: 2016 0721 2013
+  main: | 
+    學生に講義への出席を強制するならば，その理由を説明すべきである．なぜ本を讀んで獨學してはいけないのか，なぜ豫備校の講義で勉強してはいけないのか，なぜ期末試驗で點を取るだけでは不十分で講義にも出席せねばならないのか，これらを學生が納得するまで説明すべきである．説明せずに強制するのは，敢へて言へば，物扱ひである．少なくとも，理性ある市民の扱ひとは言へない．奴隸や囚人への扱ひである．
+
+    かういふ扱ひを受けた學生が，醫師になつた後，患者の意思を尊重するだらうか．説明と同意を大切にして醫療を實施してゆくだらうか．私は，極めて疑はしいと思ふ．教員は，患者との關係において informed concent を重視するのと全く同樣に，學生との關係においても informed concent を重視すべきである．
+  range:
+    - public
+  tag:
+    - enquete
+- time: 2016 0723 1903
+  main: | 
+    `elisp` の `dolist` と `progn` の違ひがわからない．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0723 1904
+  main: | 
+    `Emacs` で `S-<f12>` に command を割り當てようとしたが，できなかつた． `C-<f12>` には割り當てができた．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0723 1933
+  main: | 
+    computer 關係でやりたいこと：
+
+    - `Emacs` の強化
+    - GMail, Google Drive の API の利用
+    - 最新の `Emacs` の利用
+    - `JavaScript` の學習
+    - ( 最新の `Emacs` を利用するために ) `Arch Linux` の利用
+    - 古い HDD ( Hard Disk Drive ) を `dd` で iso image にする．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0723 2000
+  main: | 
+    `elisp` の `mapcar` の `car` の由來がわからない．
+
+    `princ`, `prin1` はひどい名前だと感じる．
+  range:
+    - public
+  tag:
+    - computer
+    - elisp
+- time: 2016 0724 0347
+  main: | 
+    `elisp` に `setq` と `defvar` なる特殊形式がある．機能は似てゐる．が名前がまるで似てゐない． `elisp` のかういふところが目下嫌ひである．
+  range:
+    - public
+  tag:
+    - compute
+    - elisp
+- time: 2016 0724 2121
+  main: | 
+    昨日は `elisp` についてかなり否定的な感情を持つてゐた．
+
+    - こんな言語はクソだ．
+    - とにかく讀みづらい．
+    - 驚き最大言語だ．
+    - `ruby` で擴張できる editor を使ひたい．
+    - `Atom` に乘り換へるべきか．
+
+    しかし今日は爽快だつた．起きてすぐ `elisp` の凾數を一つ書いた．正しく動作することを確認した．爽快だつた．
+
+    思ふに，どんな言語でも，すらすら書けるやうになれば好きになれるのではなからうか．昨日の自分は，單に自分の未熟を言語のせゐにしてゐただけかもしれぬ．
+  range:
+    - public
+  tag:
+    - computer
+    - elisp

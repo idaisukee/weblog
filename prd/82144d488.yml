@@ -1,0 +1,15 @@
+- prd: 224:330.487
+  rc_ajd: 82144.487
+  main: | 
+    やるべきこと
+
+    - Otohatiyau.rb を gem として build する．
+    - Hiyositiyau.rb に Otohatiyau.rb を組み込む．
+    - Unix time から rd を計算するものを Ruby で作る．
+    - ksu のうち要らない函數と comment を消す．
+    - Kusanaki, Nakanuma, Mikatotai を作る．
+  range:
+    - public
+  tag:
+    - computer
+    - 豫定

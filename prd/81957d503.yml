@@ -1,0 +1,9 @@
+- prd: 224:143.503
+  rc_ajd: 81957.503
+  main: | 
+    rhn_report の compile がこけるので困つてゐたが， http://quantumfluctuation.blogspot.jp/2013/12/latex-error-font-family-jy2mc-unknown.html を參考に `platex` ではなく `uplatex` を使ふやうにしたらうまくいつた．
+  range:
+    - public
+  tag:
+    - computer
+    - TeX

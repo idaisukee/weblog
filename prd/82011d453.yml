@@ -1,0 +1,10 @@
+- prd: 224:197.452
+  rc_ajd: 82011.452
+  main: | 
+    `Hiyositiyau.rb` に `Otohatiyau.rb` を load したい． Ruby の autoloadのやり方を調べなければならない．
+  range:
+    - public
+  tag:
+    - computer
+    - 希望
+    - 疑問

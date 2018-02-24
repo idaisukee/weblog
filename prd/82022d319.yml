@@ -1,0 +1,8 @@
+- prd: 224:208.319
+  rc_ajd: 82022.319
+  main: | 
+    `Yunoki.rb` を使ひ始めた．
+  range:
+    - public
+  tag:
+    - computer

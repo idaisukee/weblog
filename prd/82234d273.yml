@@ -1,0 +1,8 @@
+- prd: 225:55.272
+  rc_ajd: 82234.272
+  main: | 
+    Emacs Lisp は Lisp のなかで最低の方言なのではないか， Emacs Lisp を見て Lisp を嫌ひになるのは愚かなのではないかと思へてきた．
+  range:
+    - public
+  tag:
+    - computer

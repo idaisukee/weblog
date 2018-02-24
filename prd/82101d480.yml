@@ -1,0 +1,10 @@
+- prd: 224:287.480
+  rc_ajd: 82101.48
+  main: | 
+    anything が遲いので Helm に戾つた．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 不滿

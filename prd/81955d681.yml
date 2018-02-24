@@ -1,0 +1,9 @@
+- prd: 224:141.680
+  rc_ajd: 81955.68
+  main: | 
+    この blog の file がしばしば conflict した．だからこれを改善するために， 1 entry につき 1 file とすることにした．
+  range:
+    - public
+  tag:
+    - computer
+    - meta memo

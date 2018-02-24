@@ -1,0 +1,9 @@
+- prd: 224:148.247
+  rc_ajd: 81962.247
+  main: | 
+    Trello を使ふべきか． 300 d ほど前に使はうとしたが API の利用でつまづいて中止してしまつた．
+  range:
+    - public
+  tag:
+    - computer
+    - meta memo

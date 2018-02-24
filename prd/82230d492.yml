@@ -1,0 +1,9 @@
+- prd: 225:51.491
+  rc_ajd: 82230.491
+  main: | 
+    JavaScript の `use_strict` を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

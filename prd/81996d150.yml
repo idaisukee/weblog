@@ -1,0 +1,9 @@
+- prd: 224:182.150
+  rc_ajd: 81996.15
+  main: | 
+    `setq-local` で buffer local な變數を作れることを知つた．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs

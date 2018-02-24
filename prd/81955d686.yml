@@ -1,0 +1,8 @@
+- prd: 224:141.686
+  rc_ajd: 81955.686
+  main: | 
+    今日は Laravel の collection の理解を深めた．
+  range:
+    - public
+  tag:
+    - computer

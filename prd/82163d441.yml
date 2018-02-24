@@ -1,0 +1,9 @@
+- prd: 224:349.441
+  rc_ajd: 82163.441
+  main: | 
+    數值と單位の間にいかほどの space を入れるか， plain text において規範は確立されてゐるか．
+  range:
+    - public
+  tag:
+    - 疑問
+    - computer

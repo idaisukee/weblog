@@ -1,0 +1,9 @@
+- prd: 224:190.368
+  rc_ajd: 82004.368
+  main: | 
+    WSSE 認證とは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

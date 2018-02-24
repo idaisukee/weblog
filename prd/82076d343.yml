@@ -1,0 +1,9 @@
+- prd: 224:262.342
+  rc_ajd: 82076.342
+  main: | 
+    Hexo の API を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 224:286.458
+  rc_ajd: 82100.458
+  main: | 
+    TikZ と PlantUML を知りたい．
+  range:
+    - public
+  tag:
+    - Emacs
+    - 疑問

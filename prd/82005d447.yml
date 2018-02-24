@@ -1,0 +1,9 @@
+- prd: 224:191.446
+  rc_ajd: 82005.446
+  main: | 
+    Ruby で書くと Emacs lisp に compile するやうな言語はないか．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

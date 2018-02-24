@@ -1,0 +1,9 @@
+- prd: 224:248.344
+  rc_ajd: 82062.344
+  main: | 
+    Ruby で `composer dump-autoload` に相當するものは何か．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

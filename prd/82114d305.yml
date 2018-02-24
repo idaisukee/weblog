@@ -1,0 +1,9 @@
+- prd: 224:300.305
+  rc_ajd: 82114.305
+  main: | 
+    IdeaVIM を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - 疑問

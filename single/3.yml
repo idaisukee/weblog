@@ -1,0 +1,511 @@
+- time: 2016 0219 2226
+  main: | 
+    第 1 内科の醫局から電話聯絡があつた．統合・呼吸器學の report の合格の通知であつた．
+  range:
+    - public
+  tag:
+    - 學事
+- time: 2016 0219 2227
+  main: | 
+    Programming 強化期間の 3 / 8 が終はつた．あまり滿足はしてゐない．
+  range:
+    - public
+  tag:
+    - programming
+- time: 2016 0219 2228
+  main: | 
+    共和暦を使ふときの置閏法は equinox 法を採用してきた．これは France 革命當時，共和暦が現用されてゐたときの置閏法である．しかし， net ではどうも Romme 法が優勢のやうだ．どうしようか．迷ふ．
+  range:
+    - public
+  tag:
+    - 共和暦
+- time: 2016 0220 1238
+  main: | 
+    Balance ball を家で使つてきたが，體積が大きすぎて使ひにくいので使ふのをやめて，家の隅に置いたままにするやうになつた．隅に置いたまま 1 年近くが過ぎた．一昨日見たら穴が明いて空氣が漏れてゐたので，捨てることにする．
+  range:
+    - public
+  tag:
+    - 家
+- time: 2016 0220 1240
+  main: | 
+    ```elisp
+    (shell-command "ls")
+    ```
+    
+    で ls の結果が buffer に表示される．しかし，
+    
+    ```elisp
+    (setq cmd 'ls)
+    (shell-command cmd)
+    ```
+
+    はうまくいかない．どういふ仕組みだらう． 
+  range:
+    - public
+  tag:
+    - emacs
+    - lisp
+- time: 2016 0220 1244
+  main: | 
+    Emacs Lisp を書くとき，私は， emacs は單に front end として扱ふやうに心掛ける． shell command でできることは shell command にやらせる． program どうしの分擔を盛んにするのが unix 文化だと思つてゐる．
+  range:
+    - public
+  tag:
+    - emacs
+    - lisp
+- time: 2016 0220 1245
+  main: | 
+    昨日 B 型肝炎 vaccine の接種を受けた．接種當日は飮酒と激しい運動が禁止された．なぜだらう．體温が上がると HBs 抗原が身體に惡さをするのだらうか．
+  range:
+    - public
+  tag:
+    - 醫學
+- time: 2016 0220 1247
+  main: | 
+    mysql の shell で keybind の變更はできるだらうか．
+  range:
+    - public
+  tag:
+    - linux
+    - keybind
+- time: 2016 0220 1305
+  main: | 
+    gc 2015 年の夏に eg といふ git の wrapper を使つて， git の理解を大きく進めることができた． eg には感謝してゐる．しかしいまは eg の開發は止まつてしまつてをり，最新の git に eg を使ふことができない．殘念である．
+
+    自分で引き繼ぐべきか．しかし eg は perl で書かれてゐる． perl はもはや時代遲れであり，いまから學習しても merit が小さい．もし自分で eg の開發を引き繼ぐならば，私は php か ruby かで書き直す．
+  range:
+    - public
+  tag:
+    - git
+    - computer
+- time: 2016 0220 1321
+  main: | 
+    共和暦における置閏法には次の 4 種がある：
+
+    - 秋分法
+    - Romme 法
+    - 連續法
+    - 128 年法
+
+    私は秋分法を使ひたいと思つてゐる．秋分法により閏年を定めるには，秋分日を計算できなければならない．秋分日を計算するには，天體計算ができなければならない．少し調べた限り，以下の項目を理解せねばならぬやうだ：
+
+    - 秋分
+    - 黄經
+    - Jurius 日
+
+    道は遠さうである．
+  range:
+    - public
+  tag:
+    - 天體
+    - 暦
+- time: 2016 0220 1725
+  main: | 
+    家に net を引くかどうか迷ふ．
+  range:
+    - public
+  tag:
+    - 家
+- time: 2016 0220 2213
+  main: |
+    初めて unitest をした． ruby の minitest を使つた．
+  range:
+    - public
+  tag:
+    - programming
+- time: 2016 0221 0043
+  main: | 
+    共和暦では 1 箇月 = 30 日 が保證されてゐる．この利得は極めて大きい．
+    
+    例を示さう． 3 月， 4 月， 5 月の日數の總計はいくらか． Gregorius 暦ではかうなる：
+
+    ええと， 3 月は 31 日間， 4 月は 30 日間， 5 月は 31 日間．よつて，答は，これらを足して 92 日間．
+
+    これに對して，共和暦では 30 * 3 = 90 日間，と一瞬で答が得られる．
+
+    Gregorius 暦 2016 年の初頭，私は， France 共和政に同調を示すために共和暦を使ふことを選んだ．しかし，使ふうちに，上のごとき實用性に強く惹かれるやうになつた．よつて，今日からは，置閏法も Romme 法を採用する．この方式では， 「 ( 連續する ) 4 年 = 365 * 4 + 1 」が保證される．今日まで採用してきた秋分法にはない利點である．
+  range:
+    - public
+  tag:
+    - 共和暦
+- time: 2016 0221 0105
+  main: | 
+    サッポロファクトリーから札幌驛まで bus に乘ることが多い．前者の停留所の時刻表が net で見當たらない．これに限らず一般に， bus 停留所の時刻表にはさういふ性質がある．停留所に一意な id があれば改善すると思ふ．
+  range:
+    - public
+  tag:
+    - 交通
+- time: 2016 0221 0115
+  main: | 
+    帝銀事件の wikipedia を讀んで，琺瑯質といふ語を知つた．當時エナメル質をかう呼んだやうだ．
+  range:
+    - public
+  tag:
+    - 醫學
+    - 日本語
+- time: 2016 0221 0129
+  main: | 
+    rc 5.29 に統合・筋・神經學の tri があつた． bi の受驗者 3 名全員が， tri も受けた．私は，當日試驗が始まつてから tri の存在を知つた． tri は掲示で告知されてゐたが，私は最近校舎に行つてゐなかつたのである．よつて遲刻して行つた．もう 1 名も，遲刻して現れ，「今日 tri を知つた」と述べた．
+  range:
+    - public
+  tag:
+- time: 2016 0221 0256
+  main: | 
+    server で 'module pdo already loaded' みたいな error が出た． php.ini で pdo.so, pdo_mysql.so を讀み込む行を comment out したら動くやうになつた．だが，氣持ち惡い．
+  range:
+    - public
+  tag:
+    - php
+- time: 2016 0221 0257
+  main: | 
+    'comment out' の對義語として 'comment in' といふのを見たことがある．だが，わかりにくい． 'uncomment in' か 'script in' の方が良いと思ふ．
+  range:
+    - public
+  tag:
+    - 英語
+- time: 2016 0221 0313
+  main: | 
+    rc 今日は勢い良く class RevDate, class RcTime を實裝した．今囘は孤立した class として作つた．しかし，今後，既存の class Date, class Time から繼承するやうに作り直す必要がある．さうしないと不便だらう．
+  range:
+    - public
+  tag:
+    - programming
+    - 共和暦
+- time: 2016 0221 1346
+  main: | 
+    rc 5.14 に統合・呼吸器學について西村教授と面談した． bi に落ちた者に report が課され，そのうち私の report だけが不合格となつた件についてである．以下の要望が示された：
+
+    - 解答欄を全て埋めること．
+    - 模範解答を冩すにとどまらず，勉強をすること．
+  range:
+    - public
+  tag:
+    - 學事
+- time: 2016 0221 1410
+  main: | 
+    Kindle paperwhite は， color の畫面に比べ，目の疲れが少ないのだらうか．
+  range:
+    - public
+  tag:
+    - device
+- time: 2016 0221 2100
+  main: | 
+    「 1 箇月」といふ單位は，月の公轉周期の荒い近似である．荒い近似など，ない方がましである．
+  range:
+    - public
+  tag:
+    - 暦
+- time: 2016 0221 2101
+  main: | 
+    共和暦でも 1 箇月 = 30 日 であり， 10 進法ではない．邪魔である．もはや「月」など使はずに暮らした方が良いのではないかと思はれる．
+  range:
+    - public
+  tag:
+    - 暦
+- time: 2016 0221 2103
+  main: | 
+    ここ 10 日ほど札幌は氣温が高い．そのため，積雪が融けて足元が惡い．至るところ水溜まりだらけだ．いま水をよく通す asphalt が開發されてゐるさうだが，一刻も早く札幌に導入されてほしい．
+  range:
+    - public
+  tag:
+    - infrastructure
+- time: 2016 0221 2114
+  main: | 
+    Server を借り始めて， unix の樂しさがますますわかつた．少し設定を書けば apache で文書を net に公開できるのだ． sendmail や bind も，おそらく，簡單だらう． unix は net への接續を強く意識した os だと思ふ．
+  range:
+    - public
+  tag:
+    - computer
+    - unix
+- time: 2016 0221 2118
+  main: | 
+    北海道銀行の ui がいけてゐない．主要銀行だと ufj とみずほはいけてゐる．いけてゐない ui の service を pc に詳しくない人に使はせると， pc が嫌ひになるのではないか．だとしたら， pc を使ひ始めて間もない人には，努めていけてゐる service を提供せねばならぬ．意外なところでは， google の作るものはだいたい詰めが甘く， ui がいけてゐない．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0221 2120
+  main: | 
+    共和暦を使ふ場合， gc の時間單位で記述された定數は，換算する必要がある．有名なところでは，
+    
+    - 光は 1 gc s に地球を 7.5 周する．
+    - 東京から靜岡は新幹線で 1 gc h かかる．
+    - cup ラーメンは湯を入れて 3 gc min でできる．
+    - 最低賃銀は概ね 800 yen / gc h .
+    - 音速は概ね 340 m / gc s .
+    - 2 gc h drama
+    - 5 gc min 行動
+  range:
+    - public
+  tag:
+    - 共和暦
+- time: 2016 0221 2127
+  main: | 
+    sql の構文が cobol 臭くて苦手である． wildcard に `%` を使ふのも，いかなる歴史的經緯があるのだらうか．
+  range:
+    - public
+  tag:
+    - sql
+    - computer
+- time: 2016 0304 2347
+  main: | 
+    linux 上で共和暦を常用したい．そのための手段として， locale を自分で作るといふのがあり得ると思う．やつてみようと思ひ既存の locale file を見たが，とても讀めるものではなかつた．どこかに作り方は載つてゐるだらうか．
+
+    いま man を見たらいろいろ書いてあつた．
+  range:
+    - public
+  tag:
+    - 共和暦
+- time: 2016 0304 2355
+  main: | 
+    「さっぽろえきバス navi 」の時刻表に URL がついてゐない．使ひにくい． scriptable browser 等の假想 browser を使へば解決できさうな氣がする．
+  range:
+    - public
+  tag:
+    - programming
+    - 交通
+- time: 2016 0305 0000
+  main: | 
+    この 5 日間の進歩：
+
+    - zsh の履歴檢索，補完候補の cursor 移動での選擇を使ひ始めたこと．
+    - knockout.js を使ふ html を初めて書いたこと．
+    - grunt の機能を把握し，躊躇せずに實行できるやうになつたこと．
+    - less を初めて書いたこと．
+    
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0309 1227
+  main: | 
+    私は靜岡市の出身である．この生地の名物には富士山がよく擧げられる．しかし私にはそのありがたみがよくわからぬ．靜岡市役所本館の方が美麗だと思ふ．
+
+    しかし，富士山が古くより珍重されてきたのは客觀的事實である．「靈峰富士」なる句もある．明治大學の校歌にある句だから，この時代からあるのだらう．もしかしたら江戸時代からあるのかもしれない．
+    
+    江戸時代に既に富士登山は信仰の實踐として，また娯樂として，勵行されたと，どこかで讀んだ．このころ，「富士山は高い」といふ知識はあつたらうが，「日本一高い」といふ知識はあつたのだらうか．あつたとしたら，どのやうに測量して確定したのだらうか．
+  range:
+    - public
+  tag:
+    - 歴史
+- time: 2016 0309 1302
+  main: | 
+    「結論ありきの議論」のやうな助動詞「き」の用法に違和感がある．
+  range:
+    - public
+  tag:
+    - 日本語
+- time: 2016 0309 1343
+  main: | 
+    unix 哲學の格言に「すべての program を filter として振る舞ふやうに書け」がある．これを守つて書くと， unix の pipe, redirect の恩恵を受けられる．しかし，現代，この規範にどこまで從ふべきかは，わからない． ruby でも php でも， pipe, redirect に相當する機能は實裝できるし， ruby や php の方が書きやすく讀みやすい．
+  range:
+    - public
+  tag:
+    - computer
+    - programming
+- time: 2016 0321 1300
+  main: | 
+    isbn 978-4-89085-333-5
+  range:
+    - public
+  tag:
+- time: 2016 0412 1201
+  main: | 
+    統合・感染症學の report を提出した． g 2016 年 3 月 31 日 17 時にそこまでにできた分を， g 4 月 4 日に殘りを提出した．
+  range:
+    - public
+  tag:
+    - 學事
+- time: 2016 0414 1751
+  main: | 
+    isbn 9784101202860
+  range:
+    - public
+  tag:
+- time: 2016 0416 2038
+  main: | 
+    9 册の本を裁斷・ scan した．裁斷に 45 分， scan に 110 分 ( ただし他のことをしながら ) かかつた．合はせて 155 分であり， 17 分 / 册である．
+  range:
+    - public
+  tag:
+    - scan
+- time: 2016 0416 2229
+  main: | 
+    isbn 978-4-08-720580-0
+  range:
+    - public
+  tag:
+- time: 2016 0416 2230
+  main: | 
+    映画 『タイヨウのうた』
+  range:
+    - public
+  tag:
+    - 映畫
+- time: 2016 0421 1930
+  main: | 
+    isbn 9784087205480
+  range:
+    - public
+  tag:
+    - 本
+- time: 2016 0424 1921
+  main: | 
+    isbn 9784022736314
+  range:
+    - public
+  tag:
+    - 本
+- time: 2016 0425 1658
+  main: | 
+    isbn 4101225125
+  range:
+    - public
+  tag:
+    - 本
+- time: 2016 0502 1208
+  main: | 
+    isbn 9784121023094
+  range:
+    - public
+  tag:
+- time: 2016 0515 1355
+  main: | 
+    5 月 13 日 2 限のことである．醫學部圖書館の locker の荷物が全て放り出されてゐるとの報が學年の Line でもたらされた．私はこれを聞き晝休みにあはてて自分の荷物を見に行つた．私は locker に施錠してゐたため，私の locker は何もされてゐなかつた．中身を囘收して，自宅に持ち歸つた．
+  range:
+    - public
+  tag:
+    - 學事
+- time: 2016 0515 1855
+  main: | 
+    『イギリス憲政論』がおもしろさうだ．附屬圖書館での分類番號は 320.941 BAG である．
+  range:
+    - public
+  tag:
+    - 雜學
+- time: 2016 0516 1211
+  main: | 
+  range:
+    - public
+  tag:
+    - 社會
+- time: 2016 0516 1211
+  main: | 
+    今日 1 限，董培新助教が g 1035 まで講義した．珍事である．
+  range:
+    - public
+  tag:
+    - 學事
+- time: 2016 0516 1712
+  main: | 
+    x40b にて， henkan + Ctrl ( keytop の表示通り ) が Capslock として機能するやうだ．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0518 1709
+  main: | 
+    産婦人科學の試驗を終へた．いま自己採點したところ，
+
+    産科 31 - 38 點
+    婦人科 34 點
+
+    だつた．ぎりぎりで合格である．
+
+    産科の設問の一部につき自己採點用の記録を殘さなかつたので，上のやうな表示になつた．模範解答の公開は試驗結果の發表より後になるだらうと考へたのである．
+
+    勉強中，婦人科は癌の話が多くつまらないと感じた．しかし，癌を除けば， estrogen, progesteron の balance で議論できる事項が多く，單純でおもしろいと感じた．
+  range:
+    - public
+  tag:
+    - 醫學
+    - 學事
+- time: 2016 0522 1427
+  main: | 
+    私の部屋の寢臺の上にはつつぱり棒が南北に 3 本渡してある．これらに洗濯物を架けてゐる．昨日洗濯物を架けたら，最も東の 1 本が落下した．睡眠中のことだつた．起牀後，その 1 本を再び壁の間に渡した．その 1 本に架けた洗濯物が多すぎたかと思ひ，その 1 本と中の 1 本に分配した．それからしばらくすると，中の 1 本が落下した．それも直した．つつぱり棒がよく落下する日だつた．
+  range:
+    - public
+  tag:
+    - 生活
+    - 部屋
+- time: 2016 0524 1615
+  main: | 
+    北海道大學醫學科の教員の配る講義資料の質が低い．白い地にごく薄い黄色で刷られた graph を讀むこと，「半血球減少」なる文字列を見てさんざん考へて「汎血球減少」のことだと氣づくこと，「この染色法で抗酸菌は青く染まる」と caption の添へられた monochrome の冩眞を觀察することを強ひられる．
+  range:
+    - public
+  tag:
+    - 學事
+- time: 2016 0524 1637
+  main: | 
+    「草深橋北」「安東交番西」「池ヶ谷南」を結ぶ道路を「大岩街道」と呼ぶと思つてゐたが， net で檢索した限りでは普及してゐない呼稱のやうだ．
+  range:
+    - public
+  tag:
+    - 靜岡
+    - 地名
+- time: 2016 0524 1722
+  main: | 
+    「大岩街道」についた記事に地圖を載せられたら良いと思ふ．しかし，手輕にはできない．
+
+    - 地圖を畫像として download すること
+    - それに書き込むこと
+    - それを upload すること
+    - それをこの文書に貼ること
+
+    が氣輕にできると良い．
+  range:
+    - public
+  tag:
+    - system
+- time: 2016 0526 1144
+  main: | 
+    X40b の `/proc/cpuinfo` を見ると，この machine の CPU の clock 周波數は 1.4 MHz だ．型番を知りたいが，機體には 2371 とのみ書いてある．その後の 3 桁が重要なのだが，記載がない．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0528 1717
+  main: | 
+    昨日は Arbeit の後 2 gc.h ほど用ゐて Emacs の customize をした．
+
+    gc 昨年 10 月ころに Editorconfig を使ひ始めたが，うまく使へるときと使へないときがあつた．うまく使ふための條件を昨日定式化できた． Qiita に投稿した．
+  range:
+    - public
+  tag:
+    - computer
+- time: 2016 0528 1719
+  main: | 
+    今日は三省堂に行つて CSS の本を買つた．その本は Amazon Marketplace では 600 圓ほど安く賣つてゐたが，あへて三省堂で買つた．書店の經營は嚴しいと聞くので，應援するつもりで買つた．自分の好きな空間を守りたいといふ氣持ちと，若い人が本を實際に見て知的な刺戟を得る場を殘したいといふ氣持ちが半半である．
+  range:
+    - public
+  tag:
+    - 隨想
+    - computer
+- time: 2016 0528 1755
+  main: | 
+    今日，下着を買ひに Uniqlo に行つたら，たまたま sale をしてゐた． T shirt をたくさん買ひ，支拂ひが計 8 k 圓になつた．
+
+    會計には長い列ができてゐた．「Square Card 以外の card で一括拂ひをする客」は專用の register に案内され，他の客より早く會計を濟ませることができた． Square Card は昨日行つた Uniqlo の入居する札幌驛驛 building の card である．これを持つた客を優遇しなくて良いのだらうか，と不安になつた．
+  range:
+    - public
+  tag:
+    - 雜記
+- time: 2016 0528 1800
+  main: | 
+    昨日， Sony Smartwatch 2 が不正常な動きをした．まづ， phone の bluetooth を on にしても， 5 gc.min 以上接續されなかつた．次に，朝電池の gauge が 8 割程度あつたものが，夜に電池切れで halt した．
+  range:
+    - public
+  tag:
+    - Smartwatch
+- time: 2016 0529 1838
+  main: | 
+    Emacs に text-object が必要だ：と考へて，實裝を進めてゐる．獨自實裝してゐる．が， Evil の plugin として
+  range:
+    - public
+  tag:
+- time: 2016 0531 1217
+  main: | 
+    isbn 9784022736017
+  range:
+    - public
+  tag:

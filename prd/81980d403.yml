@@ -1,0 +1,10 @@
+- prd: 224:166.402
+  rc_ajd: 81980.402
+  main: | 
+    Bundler の使ひ方を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Ruby
+    - 疑問

@@ -1,0 +1,9 @@
+- prd: 224:343.510
+  rc_ajd: 82157.51
+  main: | 
+    Student doctor がやつて良い行為の一覽がほしい．
+  range:
+    - public
+  tag:
+    - 醫學
+    - 疑問

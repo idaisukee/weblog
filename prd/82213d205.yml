@@ -1,0 +1,10 @@
+- prd: 225:34.204
+  rc_ajd: 82213.204
+  main: | 
+    Conusel と anything の比較を知りたい．
+  range:
+    - public
+  tag:
+    - computer
+    - Emacs
+    - 疑問
